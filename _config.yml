@@ -1,1 +1,18 @@
+title: Books by Kenna
+email: admin@booksbykenna.com
+description: > # this means to ignore newlines until "baseurl:"
+Kenna Shaw Reed author web site.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+
+excerpt_separator: <!--more-->
+
+# Build settings
+markdown: kramdown
 theme: minima
+gems:
+  - jekyll-feed
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - Style for blog.pptx

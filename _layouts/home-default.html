@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+
+  {% include head.html %}
+
+  <body class="homepage">
+
+    {% include header.html %}
+
+    <main class="page-content" aria-label="Content">
+      {% include carousel.html %}
+      <div class="wide-wrapper">
+        {{ content }}
+      </div>
+    </main>
+
+    {% include footer.html %}
+
+  </body>
+
+</html>

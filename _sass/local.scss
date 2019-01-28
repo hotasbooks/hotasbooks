@@ -1,0 +1,180 @@
+body.homepage {
+    h1 {
+        font-size: 2.5em;
+    }
+
+    div.row {
+        margin-top: 50px;
+    }
+
+    img.thumbnail {
+        float: left;
+        margin-right: 10px;
+    }
+
+    .post-list > li {
+        margin-bottom: 10px;
+        clear: both;
+    }
+
+    .clear {
+        clear: both;
+    }
+
+}
+
+div.wide-wrapper {
+    max-width: -webkit-calc(1170px - (#{$spacing-unit} * 2));
+    max-width:         calc(1170px - (#{$spacing-unit} * 2));
+    margin-right: auto;
+    margin-left: auto;
+    padding-right: $spacing-unit;
+    padding-left: $spacing-unit;
+    @extend %clearfix;
+}
+
+div.top-bar {
+    background: #333;
+    padding: 5px;
+}
+
+div.banner {
+    background-color: #aaa;
+}
+
+div.banner h1 {
+    text-align: center;
+    padding: 50px 0;
+    margin: 0;
+    font-size: 3.5em;
+}
+
+nav ul {
+    list-style-image: none;
+    margin: 0;
+
+    li {
+        display: inline-block;
+        font-size: 1em;
+        margin-left: -5px;
+
+        a, a:visited {
+            padding: 1em;
+            color: #fff;
+            height: 100%;
+            border-bottom: 1px solid #333;
+        }
+
+        a:hover {
+            text-decoration: none;
+        }
+    }
+
+    li.home-link {
+        font-size: 1.2em;
+        line-height: 1em;
+
+        a, a:visited {
+            padding: 0.8em;
+        }
+    }
+
+    li a:hover {
+        background: #fff;
+
+        //a, a:visited {
+            color: #333;
+        //}
+    }
+
+    li.right {
+        float: right;
+    }
+}
+
+img.round {
+    width: 40px;
+    height: 40px;
+    -moz-border-radius: 40px;
+    -webkit-border-radius: 40px;
+    border-radius: 40px;
+    margin-right: 5px;
+}
+
+.homepage {
+    li.home-link a, li.home-link:hover a {
+        background-color: #666;
+        color: #FFF;
+        cursor: default;
+    }
+}
+
+.diet {
+    li.diet a, li.diet:hover a {
+        background-color: #666;
+        color: #FFF;
+        cursor: default;
+    }
+}
+
+.lifestyle {
+    li.lifestyle a, li.lifestyle:hover a {
+        background-color: #666;
+        color: #FFF;
+        cursor: default;
+    }
+}
+
+.meandmyms {
+    li.meandmyms a, li.meandmyms:hover a {
+        background-color: #666;
+        color: #FFF;
+        cursor: default;
+    }
+}
+
+.qotd {
+    li.qotd a, li.qotd:hover a {
+        background-color: #666;
+        color: #FFF;
+        cursor: default;
+    }
+}
+
+.research {
+    li.research a, li.research:hover a {
+        background-color: #666;
+        color: #FFF;
+        cursor: default;
+    }
+}
+
+.symptoms {
+    li.symptoms a, li.symptoms:hover a {
+        background-color: #666;
+        color: #FFF;
+        cursor: default;
+    }
+}
+
+.about {
+    li.about a, li.about:hover a {
+        background-color: #666;
+        color: #FFF;
+        cursor: default;
+    }
+}
+
+ul.blog-items {
+    list-style: none;
+    margin-left: 0;
+}
+
+img.thumbnail {
+    margin: 5px;
+}
+
+.page-content .carousel {
+    margin-top: -30px;
+    margin-bottom: 50px;
+}
