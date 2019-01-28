@@ -45,6 +45,17 @@ img.thumbnail { margin: 5px; }
 
 .page-content .carousel { margin-top: -30px; margin-bottom: 50px; }
 
+div.featured-titles { margin-top: 40px; }
+
+ul.collection { list-style: none; }
+ul.collection li { display: list-item; float: left; }
+
+div.home { clear: both; }
+
+.img-book-cover { width: 100%; height: 350px; display: block; background-repeat: no-repeat; background-position: top; background-size: auto 100%; margin: 0 auto; }
+@media (max-width: 1200px) { .img-book-cover { height: 300px; } }
+@media (max-width: 480px) { .img-book-cover { height: 170px; } }
+
 /** Reset some basic elements */
 body, h1, h2, h3, h4, h5, h6, p, blockquote, pre, hr, dl, dd, ol, ul, figure { margin: 0; padding: 0; }
 
