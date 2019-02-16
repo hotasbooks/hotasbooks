@@ -1,13 +1,28 @@
 ---
 layout: book-summary
 title: The Politician's Wife
+image: the-politician-wife.png
+altText: The Politician's Wife
 ---
-<div class="row">
-    <div class="col-md-4">
-        <img src="{{ "/images/covers/the-politician-wife.png" | relative_url }}" alt="The Politician's Wife" />
-    </div>
-    <div class="col-md-8">
-        <h2>The Politician&apos;s Wife</h2>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-    </div>
-</div>
+
+## He promised he’d love her forever. Until Susannah discovered it was a politician’s promise and she was only his wife.
+
+**Susannah** woke to see her politician husband the featured news story, caught out with his mistress. When her faithful heart didn’t think it could break any more, he said the words, “but I love her.”
+
+Hiding from the world won’t make the pain go away. Until one man found her, determined to prove how much he wanted to fill her with a new love. Life could be perfect until her lying, cheating husband is sorry and wants her back. Now you help Susannah decide what is Revenge? Rebound or Real?
+
+**James** knows his wife sees his flawed self. For years he had affairs with women who see him as confident and successful. He never expected to fall in love or leave his marriage. It only took a week to realise his mistake. He wants Susannah back, but where did her love bites come from?
+
+**Christopher** should be loyal to the man who pays him, but his heart will always belong to his boss’ wife. 
+
+**Lloyd** knows that all the money in the world can’t buy love. Could one dance on the sand allow him to cross the bridge from their friend-zone?
+
+Taking time out to think and time to decide, Susannah thought she knew who she wanted. Only for forgotten photos on a phone answer questions she never wanted asked.
+
+Will Susannah get the happily ever after she deserves?
+
+Will she even have a choice?
+
+**The Politician’s Wife** is the fourth in the contemporary, steamy Choose Your Own Romance series where you, the reader, get to choose Susannah’s happily ever after.
+
+**After all, when one happily ever after is not enough – choose your own.**

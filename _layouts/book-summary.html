@@ -3,6 +3,13 @@ layout: default
 ---
 <div class="book-summary">
 
-    {{ content }}
+    <div class="row">
+        <div class="col-md-4">
+            <img alt="{{ page.altText }}" src="{{site.baseurl}}/images/covers/{{page.image}}" | relative_url }}" />
+        </div>
+        <div class="col-md-8">
+            {{ content }}
+        </div>
+    </div>
 
 </div>
