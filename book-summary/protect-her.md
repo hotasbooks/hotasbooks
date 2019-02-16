@@ -15,11 +15,7 @@ He always believed he was **invincible** until a bomb proved he wasn’t.
 
 Xanthe Davies didn’t believe love could last forever. Burnt more than once, Mack was everything she knew to avoid.
 
-Alpha.
-
-Army.
-
-Player.
+Alpha.<br>Army.<br>Player.
 
 With kisses that could remove clothing. Except he made her want to believe in their forever. Until in an instant, life changed.
 
