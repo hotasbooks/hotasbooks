@@ -1,16 +1,18 @@
 <h2 class="featured-title text-center">Featured Titles</h2>
 <div class="featured-titles">
     <ul class="collection col-xs-24 fit">
-        <li class="book col-12 col-sm-6 col-lg-3">
-            <a href="book-summary/the-perfect-wife.html" title="">
-                <div class="img-book-cover" style="background-image: url('{{ "/images/covers/the-perfect-wife.png" | relative_url }}');"></div>
-            </a>
-            <p></p>
-            <p>With her husband&apos;s mistress in town and her heart torn in new directions, should Brynne go back to being&hellip;</p>
-            <p class="text-center"><strong>The Perfect Wife</strong></p>
-            <p class="text-center"><a class="read-more" href="book-summary/the-perfect-wife.html" title="Read More">Read More</a></p>
-        </li>
-        <li class="book col-12 col-sm-6 col-lg-3">
+        {% for book in site.data.featured %}
+            <li class="book col-12 col-sm-6 col-lg-3">
+                <a href="book-summary/{{ book.page }}.html" title="">
+                    <div class="img-book-cover" style="background-image: url('{{ site.baseurl }}/images/covers/{{ book.image }}');"></div>
+                </a>
+                <p></p>
+                <p>{{ book.content }}</p>
+                <p class="text-center"><strong>{{ book.title }}</strong></p>
+                <p class="text-center"><a class="read-more" href="book-summary/{{ book.page }}}.html" title="Read More">Read More</a></p>
+            </li>
+        {% endfor %}
+        <!-- li class="book col-12 col-sm-6 col-lg-3">
             <a href="book-summary/protect-her.html" title="">
                 <div class="img-book-cover" style="background-image: url('{{ "/images/covers/protect-her.png" | relative_url }}');"></div>
             </a>
@@ -36,6 +38,6 @@
             <p class="bookr-description">He promised he’d love her forever. Until Susannah discovered it was a politician’s promise and she was only&hellip;</p>
             <p class="text-center"><strong>The Politician&apos;s Wife</strong></p>
             <p class="text-center"><a class="read-more" href="book-summary/the-politicians-wife.html" title="Read More">Read More</a></p>
-        </li>
+        </li -->
     </ul>
 </div>
