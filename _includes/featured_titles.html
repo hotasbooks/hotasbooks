@@ -1,7 +1,6 @@
-<h2 class="featured-title text-center">Featured Titles</h2>
 <div class="featured-titles">
     <ul class="collection col-xs-24 fit">
-        {% for book in site.data.featured %}
+        {% for book in site.data[page.featuredDataFile] %}
             <li class="book col-12 col-sm-6 col-lg-3">
                 <a href="book-summary/{{ book.page }}.html" title="">
                     <div class="img-book-cover" style="background-image: url('{{ site.baseurl }}/images/covers/{{ book.image }}');"></div>
@@ -9,7 +8,7 @@
                 <p></p>
                 <p>{{ book.content }}</p>
                 <p class="text-center"><strong>{{ book.title }}</strong></p>
-                <p class="text-center"><a class="read-more" href="book-summary/{{ book.page }}}.html" title="Read More">Read More</a></p>
+                <p class="text-center link"><a class="read-more" href="book-summary/{{ book.page }}}.html" title="Read More">Read More</a></p>
             </li>
         {% endfor %}
     </ul>

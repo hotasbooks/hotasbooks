@@ -1,20 +1,20 @@
 - title: Choose your own adventure
   image: web-banner-cyo.png
   altText: choose your own series
-  page: 
+  page: series/choose-your-own
 - title: 
   image: web-banner-have-you-met.png
   altText: have you met Alex
-  page: 
+  page: book-summary/have-you-met-alex
 - title: 
   image: web-banner-military-series.png
   altText: military series
-  page: 
+  page: series/aussie-military-romance
 - title: 
   image: web-banner-no-rules.png
   altText: no rules series
-  page: 
+  page: series/passion-without-rules
 - title: 
   image: web-banner-romance.png
-  altText: romance
-  page: 
+  altText: romance with passion
+  page: series/romance-with-passion

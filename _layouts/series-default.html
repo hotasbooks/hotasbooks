@@ -7,13 +7,12 @@
 
     {% include header.html %}
 
-    <main class="page-content" aria-label="Content">
-      {% include carousel.html %}
+    <main class="page-content no-padding-top" aria-label="Content">
       <div class="wide-wrapper">
-        <h2 class="featured-title text-center">Featured Titles</h2>
+        <h2 class="featured-title text-center">Series Titles</h2>
         {% include featured_titles.html %}
         <div class="content">
-          {{ content }}
+            {{ content }}
         </div>
       </div>
     </main>

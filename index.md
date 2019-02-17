@@ -4,6 +4,8 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
 special: homepage
+title: Books by Kenna
+featuredDataFile: featured-main
 ---
 # Books by Kenna
 

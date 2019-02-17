@@ -123,54 +123,6 @@ img.round {
     }
 }
 
-.lifestyle {
-    li.lifestyle a, li.lifestyle:hover a {
-        background-color: #666;
-        color: #FFF;
-        cursor: default;
-    }
-}
-
-.meandmyms {
-    li.meandmyms a, li.meandmyms:hover a {
-        background-color: #666;
-        color: #FFF;
-        cursor: default;
-    }
-}
-
-.qotd {
-    li.qotd a, li.qotd:hover a {
-        background-color: #666;
-        color: #FFF;
-        cursor: default;
-    }
-}
-
-.research {
-    li.research a, li.research:hover a {
-        background-color: #666;
-        color: #FFF;
-        cursor: default;
-    }
-}
-
-.symptoms {
-    li.symptoms a, li.symptoms:hover a {
-        background-color: #666;
-        color: #FFF;
-        cursor: default;
-    }
-}
-
-.about {
-    li.about a, li.about:hover a {
-        background-color: #666;
-        color: #FFF;
-        cursor: default;
-    }
-}
-
 ul.blog-items {
     list-style: none;
     margin-left: 0;
@@ -189,6 +141,26 @@ img.thumbnail {
 
 div.featured-titles {
     margin-top: 40px;
+
+    ul li {
+        margin-bottom: 2em;
+    }
+}
+
+div.content {
+    clear: both;
+}
+
+.no-padding-top {
+    padding-top: 0px !important;
+}
+
+p.link {
+    margin-top: -0.8em;
+
+    a {
+        font-size: small;
+    }
 }
 
 ul.collection {
