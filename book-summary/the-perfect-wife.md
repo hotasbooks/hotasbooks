@@ -4,7 +4,6 @@ title: The Perfect Wife
 image: the-perfect-wife.png
 altText: The perfect wife
 ---
-
 ## What if perfect love could happen more than once? Which one would you choose?
 
 **Brynne wanted to be the perfect corporate wife but she never expected the lonely nights.** When her husband’s “mistress” is his business, how can she compete? And how can she possibly say “no” when Lieutenant Colonel Ed Alexander wants coffee. He might have been her first love, but the hurt didn’t fade with the years.
