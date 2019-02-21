@@ -3,6 +3,10 @@ layout: book-summary
 title: The Perfect Wife
 image: the-perfect-wife.png
 altText: The perfect wife
+AMSUSA: 
+AMSAU:
+AMSUK:
+AMSCA:
 ---
 ## What if perfect love could happen more than once? Which one would you choose?
 

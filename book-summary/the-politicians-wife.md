@@ -3,6 +3,10 @@ layout: book-summary
 title: The Politician's Wife
 image: the-politician-wife.png
 altText: The Politician's Wife
+AMSUSA: 
+AMSAU:
+AMSUK:
+AMSCA:
 ---
 
 ## He promised he’d love her forever. Until Susannah discovered it was a politician’s promise and she was only his wife.

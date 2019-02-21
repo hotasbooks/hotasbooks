@@ -3,6 +3,10 @@ layout: book-summary
 title: Protect Her
 image: protect-her.png
 altText: Protect her
+AMSUSA: 
+AMSAU:
+AMSUK:
+AMSCA:
 ---
 
 ## To protect her from his future, Mack needed to man up and let her go.
@@ -23,4 +27,4 @@ How can she prove he’s still got everything to make her satisfied when he sees
 
 Will Invictus help him see their future or will he push her away forever?
 
-**Protect Her** is for every woman loves a military hero. The romance is real, story compelling, and the steam is hot. **Get Protect Her today.**
+**Protect Her** is for every woman who loves a military hero. The romance is real, story compelling, and the steam is hot. **Get Protect Her today.**
