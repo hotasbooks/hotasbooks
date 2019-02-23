@@ -28,6 +28,7 @@ So much more than a **love triangle**, get your copy today.
 
 
 #### From the author
+
 > The Bad Kitty is priced to introduce you to this new style romance that puts you in control of the happily every after, while also featuring characters from across my other books.
 > 
 > Cheating warning - As Catherine explores who she is, there are times when she turns to a lover's arms. That's the whole point of choose your own romance - taking a woman at a cross road in her life and deciding which man will be her happily ever after.
