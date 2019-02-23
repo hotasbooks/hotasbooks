@@ -141,6 +141,24 @@ img.round {
     }
 }
 
+@media (max-width: 800px) {
+    nav ul li, nav ul li:hover {
+        display: block;
+        text-align: center;
+        height: 2.5em;
+        a {
+            background-color: transparent !important;
+            color: #fff !important;
+            border-bottom: none !important;
+            height: 1.2em;
+        }
+    }
+
+    nav ul li:hover a {
+        text-decoration: underline;
+    }
+}
+
 .diet {
     li.diet a, li.diet:hover a {
         background-color: #666;
