@@ -4,8 +4,8 @@
   page: series/choose-your-own
 - title: 
   image: web-banner-have-you-met.png
-  altText: have you met Alex
-  page: book-summary/have-you-met-alex
+  altText: have you met series
+  page: series/have-you-met
 - title: 
   image: web-banner-military-series.png
   altText: military series
