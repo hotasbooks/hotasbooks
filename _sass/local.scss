@@ -25,6 +25,20 @@ body.homepage {
 
 }
 
+body.general {
+
+    h1 {
+        font-family: Garamond,Baskerville,Baskerville Old Face,Hoefler Text,Times New Roman,serif;
+        font-size: 2.5em;
+        color: #f47b6b;
+    }
+
+    h2 {
+        font-family: Garamond,Baskerville,Baskerville Old Face,Hoefler Text,Times New Roman,serif;
+        font-size: 2em;
+    }
+}
+
 h2.featured-title {
     color: #f47b6b;
 }
@@ -40,7 +54,7 @@ div.wide-wrapper {
 }
 
 div.top-bar {
-    background: #333;
+    background: #941b0b;
     padding: 5px;
 }
 
@@ -86,11 +100,7 @@ nav ul {
     }
 
     li a:hover {
-        background: #fff;
-
-        //a, a:visited {
-            color: #333;
-        //}
+        background: #f47b6b;
     }
 
     li.right {
@@ -113,8 +123,20 @@ img.round {
 
 .homepage {
     li.home-link a, li.home-link:hover a {
-        background-color: #666;
-        color: #FFF;
+        background-color: #fff;
+        color: #941b0b;
+        border-bottom: 2px solid #fff;
+        font-weight: bold;
+        cursor: default;
+    }
+}
+
+.general {
+    li.my-books a, li.my-books:hover a {
+        background-color: #fff;
+        color: #941b0b;
+        border-bottom: 2px solid #fff;
+        font-weight: bold;
         cursor: default;
     }
 }
