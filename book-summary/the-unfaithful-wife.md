@@ -3,21 +3,49 @@ layout: book-summary
 title: The Unfaithful Wife
 image: the-unfaithful-wife.png
 altText: the unfaithful wife
-AMSUSA: 
-AMSAU:
-AMSUK:
-AMSCA:
+AMSUSA: https://www.amazon.com/gp/product/B07D91M4Q6/
+AMSAU: https://www.amazon.com.au/gp/product/B07D91M4Q6/
+AMSUK: https://www.amazon.co.uk/gp/product/B07D91M4Q6/
+AMSCA: https://www.amazon.ca/gp/product/B07D91M4Q6/
 ---
 
+## He promised to always love her. He never promised not to break her heart
 
-**Choose once** Then choose again. 
-These three men send Jade’s head and heart spinning. Who will Jade end up with? You control Jade’s romantic destiny in this choose your own romance. After all, when one happily ever after is never enough, Choose Your Own Romance!
+**One woman**
 
-**The Intern** is more than a **love triangle**. The Intern is a steamy contemporary interracial, office romance where you get to choose Jade’s happily ever after. Make your choice, today.
+**Nina** has it all, model looks, successful career, loving children and a cheating husband. Luckily her own lover is always willing to kiss her tears away.
+
+**Three men**
+
+**Derek** knew he didn't deserve her, but thought Nina would always be the forgiving and faithful wife. Until he first finds the mystery phone, then the key and finally discovers his loving wife has been hiding her own secrets.
+
+**Roland** may be Derek’s best friend but it is his friendship with Nina that they can’t hide forever. Their affair will only threaten their marriages if anyone finds out.
+
+**Lucas** never expected the long legs to belong to such a sexy, older woman. One night with the mysterious “Tina” is never going to be enough.
+
+Husbands lie, lovers fall in love. If the choice is up to Nina, who will she choose?
+
+**Choose once** Then choose again. These three men send Nina’s head and heart spinning. You control Nina’s romantic destiny in this choose your own romance. After all, when one happily ever after is never enough, Choose Your Own Romance!
+
+**The Unfaithful Wife** is more than a **love triangle** or even a second chance romance. The Unfaithful Wife is a steamy contemporary romance of love, betrayal and forgiveness where you get to choose Nina’s happily ever after.
+Make your choice, today.
 
 
 
-**From the author**
-The Politician's Wife was my first choose your own romance series that featured a complicated marriage.<br>After seeing one too many politicians, footballers, movie stars and other prominent men have their affairs splashed across the media, I wanted to write a book from the wife's perspective. Imagine that she had no idea until watching the news. Imagine the hurt and anger, especially when the man she loves has the balls to say that he loves another. What would she do and who could she trust?<br>Then I wanted to imagine a scenario when he realizes what he threw away and explore just how far he would go to be the one love in her life, again.<br>One thing you'll learn about my romances, is that I love writing confrontation scenes. There are a couple in The Politician's Wife and I hope you enjoy them as much as I did.<br>Cheating warning - As Susannah takes her husband's affair as a trigger to explore who she is and what she wants out of life, there are times when she turns to a lover's arms. That's the whole point of choose your own romance - taking a woman at a cross road in her life and deciding which man will be her happily ever after.<br>I'll be honest, her husband starts off as a lying, cheating b-word, but from the moment he realizes that he truly loves his wife, James is completely committed to winner her back.<br>Even though my books are grouped into series, there is no "right" entry and each book can be read stand-alone. 
+#### From the author
 
-Other books with Susannah: [The Bad Kitty](https://www.amazon.com/dp/B07N1XZM99/ "The Bad Kitty") [The Unforgiving Wife](https://www.amazon.com/gp/product/B07FCR1K6N/ "The Unforgiving Wife") 
+> Derek is a sexy creature and we’ve all met our own version of Derek. Powerful, charismatic and able to charm the panties of any woman he chooses. So why would his wife stay? Nina is strong, sexy and successful in her own right. Her only ‘weakness’ is the love she can’t deny for her husband.
+>
+> For Nina, the only way she can face and forgive each of her husband’s affairs, is to have her own safety net. One man who will always love her, and will never let her down. Having her own lover doesn’t make the pain go away, but it helps her to understand. 
+> 
+> In **The Unfaithful Wife**, I’ve explored the emotional cost of infidelity – both Derek and Nina. Rarely can complicated relationships last until old age. And, as my loyal readers would expect, there is a twist! Choose the lighthouse!
+> 
+> Cheating warning - Even though Derek doesn't cheat in The Unfaithful Wife, Nina finds solace in lovers' arms. That's the whole point of choose your own romance - taking a woman at a cross road in her life and deciding which man will be her happily ever after.
+> 
+> Even though my books are grouped into series, there is no "right" entry and each book can be read stand-alone. 
+
+Other books with Nina: [The Intern](https://www.amazon.com/dp/B078ZW34LX/ "The Intern") [The Unforgiving Wife](https://www.amazon.com/gp/product/B07FCR1K6N/ "The Unforgiving Wife"); [Shattered Hearts](https://www.amazon.com/gp/product/B07NJ5GWST/ "Shattered Hearts") 
+Other books with Derek: [The Unforgiving Wife](https://www.amazon.com/gp/product/B07FCR1K6N/ "The Unforgiving Wife"); [A Billion Reasons Why](https://www.amazon.com/gp/product/B07C3G6YH7/ "A Billion Reasons Why"); [Who Is Erebus?](https://www.amazon.com/gp/product/B07FCXFKGH/ "Who Is Erebus?"); [Shattered Hearts](https://www.amazon.com/gp/product/B07NJ5GWST/ "Shattered Hearts")
+Other books with Roland: [The Unforgiving Wife](https://www.amazon.com/gp/product/B07FCR1K6N/ "The Unforgiving Wife"); [Shattered Hearts](https://www.amazon.com/gp/product/B07NJ5GWST/ "Shattered Hearts")
+
+Sign up to my newsletter and get your [FREE prequel](https://dl.bookfunnel.com/6cgn89gdke "Once Upon a Love Story") to Nina and Derek's love story.

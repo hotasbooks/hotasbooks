@@ -19,8 +19,19 @@ AMSCA: https://www.amazon.ca/gp/product/B07BJKM8DT/
 
 So much more than a **love triangle**, get your copy today.
 
-**From the author**
-The Question Is was my first FFM romance where one of the love options was a female. I wanted to explore the notion of loving a person regardless of their gender.<br>Grace never thought she was gay until she fell in love with her best friend, Sienna at university. Years later and they are facing the same challenge of most couples - Grace wants marriage and children while Sienna is happy the way they are.<br>What happens when Grace meets up with her first love, Seth? They only broke up when she went away for university and he's never forgotten her.<br>A modern love triangle with the only twist is whether Grace's future is with a man or woman.<br>Written when Australia was conducting a postal vote on the legalisation of same-sex-marriage, every word is from my heart. Love is love and I am thrilled that all my friends are equal to experience the challenge and joy of marriage.<br>Same sex warning - don't read if it is going to offend.<br>Cheating warning - As Grace explores who she is and what she wants out of life, there are times when she turns to Seth. That's the whole point of choose your own romance - taking a woman at a cross road in her life and deciding which love will be her happily ever after.<br>Even though my books are grouped into series, there is no "right" entry and each book can be read stand-alone. 
+#### From the author
+
+> The Question Is was my first FFM romance where one of the love options was a female. I wanted to explore the notion of loving a person regardless of their gender and what happens when one person wants marriage and children while the other person is happy the way they are.
+> 
+> Then I threw in the twist when Grace meets up with her first love, Seth. They only broke up when she went away for university and he's never forgotten her.
+> 
+> A modern love triangle where you get to decide if Grace's future is with a Seth or Sienna.
+> 
+> Written when Australia was conducting a postal vote on the legalisation of same-sex-marriage, every word is from my heart. Love is love and I am thrilled that all my friends are equal to experience the challenge and joy of marriage.
+> Same sex warning - don't read if it is going to offend.
+> Cheating warning - As Grace explores who she is and what she wants out of life, there are times when she turns to Seth. That's the whole point of choose your own romance - taking a woman at a cross road in her life and deciding which love will be her happily ever after.
+> 
+> Even though my books are grouped into series, there is no "right" entry and each book can be read stand-alone. 
 
 Other books with Grace: [The Uni Student](https://www.amazon.com/gp/product/B076NRVM5M/ "The Uni Student")
 Other books with Seth: [Never Second Best](https://www.amazon.com/gp/product/B07D7P8TJ1/ "Never Second Best") (Set years after The Question Is, Seth gets his own happily ever after) 
