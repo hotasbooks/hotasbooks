@@ -3,10 +3,10 @@ layout: book-summary
 title: Shattered Hearts
 image: shattered-hearts.png
 altText: shattered hearts
-AMSUSA: 
-AMSAU:
-AMSUK:
-AMSCA:
+AMSUSA: https://www.amazon.com/gp/B07NJ5GWST
+AMSAU: https://www.amazon.com.au/gp/B07NJ5GWST
+AMSUK: https://www.amazon.co.uk/gp/B07NJ5GWST
+AMSCA: https://www.amazon.ca/gp/B07NJ5GWST
 ---
 ## Nina's world stopped at the same time as her daughter's heart.
 

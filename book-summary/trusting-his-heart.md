@@ -3,10 +3,10 @@ layout: book-summary
 title: Trusting his Heart
 image: trusting-his-heart.png
 altText: trusting his heart
-AMSUSA: 
-AMSAU:
-AMSUK:
-AMSCA:
+AMSUSA: https://www.amazon.com/gp/product/B078T3LM28
+AMSAU: https://www.amazon.com.au/gp/product/B078T3LM28
+AMSUK: https://www.amazon.co.uk/gp/product/B078T3LM28
+AMSCA: https://www.amazon.ca/gp/product/B078T3LM28
 ---
 ## A beautiful, heartfelt story of a widow, a widower and their courage to love again.
 

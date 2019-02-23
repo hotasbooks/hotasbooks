@@ -3,10 +3,10 @@ layout: book-summary
 title: Never Second Best
 image: never-second-best.png
 altText: never second best
-AMSUSA: 
-AMSAU:
-AMSUK:
-AMSCA:
+AMSUSA: https://www.amazon.com/gp/product/B07D7P8TJ1
+AMSAU: https://www.amazon.com.au/gp/product/B07D7P8TJ1
+AMSUK: https://www.amazon.co.uk/gp/product/B07D7P8TJ1
+AMSCA: https://www.amazon.ca/gp/product/B07D7P8TJ1
 ---
 
 ## How can Seth save his foster son when the one woman who can help, refuses to take his call?
