@@ -5,7 +5,16 @@ layout: default
 
     <div class="row">
         <div class="col-md-4">
-            <img alt="{{ page.altText }}" src="{{site.baseurl}}/images/covers/{{page.image}}" | relative_url }}" />
+            <img class="img-center" alt="{{ page.altText }}" src="{{site.baseurl}}/images/covers/{{page.image}}" | relative_url }}" />
+            <div class="buy-links">
+                <div>
+                    {% if page.AMSUSA %} <p><a href="{{ page.AMSUSA }}">Amazon (USA)</a></p> {% endif %}
+                    {% if page.AMSAU %} <p><a href="{{ page.AMSAU }}">Amazon (Australia)</a></p> {% endif %}
+                    {% if page.AMSUK %} <p><a href="{{ page.AMSUK }}">Amazon (UK)</a></p> {% endif %}
+                    {% if page.AMSCA %} <p><a href="{{ page.AMSCA }}">Amazon (Canada)</a></p> {% endif %}
+                    {% if page.BF %} <p><a href="{{ page.BF }}">Free book</a></p> {% endif %}
+                </div>
+            </div>
         </div>
         <div class="col-md-8">
             {{ content }}
