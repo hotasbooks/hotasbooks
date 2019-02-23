@@ -12,7 +12,7 @@ Don't want to read it now? No problems, download it and get a bonus sneak peak f
 
 Enjoy!
 
-##Have you met ... Alex?
+## Have you met ... Alex?
 
 Alex MacFarlane pulled into the dusty carpark noticing there were more cars with surfboards on the roof than utes with work equipment in the back trays. Even though there was little chance of running into anyone from back home, he breathed a sigh of relief. Beers tonight and surfing tomorrow, hangover permitting.
 
