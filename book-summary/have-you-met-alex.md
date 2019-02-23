@@ -6,9 +6,9 @@ altText: have you met alex?
 BF: https://dl.bookfunnel.com/z1sedmwbgy
 ---
 
-Sometimes there are characters in my books that make us want more. Early this year, I asked my readers to tell me what they wanted for Alex MacFarlane from The Uni Student. Here is the short but not sweet holiday romance they asked for! 
+Sometimes there are characters in my books that make us want more. Early this year, I asked my readers to tell me what they wanted for Alex MacFarlane from [The Uni Student](https://www.amazon.com/gp/product/B076NRVM5M/ "The Uni Student"). Here is the short but not sweet holiday romance they asked for! 
 
-Don't want to read it now? No problems, download it and get a bonus sneak peak from The Uni Student.
+Don't want to read it now? No problems, [download it for free](https://dl.bookfunnel.com/z1sedmwbgy "Have You Met ... Alex") and get a bonus sneak peak from  The Uni Student.
 
 Enjoy!
 
