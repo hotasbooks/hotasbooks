@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+  <head>
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}</title>
+      <meta name="description" content="{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}">
+  
+      <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css" integrity="sha384-GJzZqFGwb1QTTN6wy59ffF1BuGJpLSa9DkKMp0DgiMDm4iYMj70gZWKYbI706tWS" crossorigin="anonymous">
+
+      <style>
+html, body, main {
+    height: 100%;
+}
+
+#paged
+{
+    width: 95%;
+    height: 90%;
+    margin: 0 auto;
+    -moz-column-count: 2;
+    column-count: 2;
+    overflow-x: auto;
+}
+
+@media (max-width: 960px) {
+    #paged {
+        -moz-column-count: 1;
+        column-count: 1;
+    }
+}
+
+.pagination nav {
+    margin: 0 auto;
+}
+      </style>
+      <script type="text/javascript">
+      
+      function next() {
+        var scroll = $("#paged")[0].scrollWidth;
+        var pages = Math.round(scroll / $("#paged").width());
+        var pageWidth = scroll / pages;
+        var left = $("#paged")[0].scrollLeft;
+        left += pageWidth;
+        if (left < scroll)
+        $("#paged")[0].scrollLeft = left;
+      }
+
+      function prev() {
+        var scroll = $("#paged")[0].scrollWidth;
+        var pages = Math.round(scroll / $("#paged").width());
+        var pageWidth = scroll / pages;
+        var left = $("#paged")[0].scrollLeft;
+        left -= pageWidth;
+        if (left < 0) left = 0;
+        $("#paged")[0].scrollLeft = left;
+      }
+
+      </script>
+  </head>
+  <body>
+    <main class="page-content" aria-label="Content">
+      <div id="paged">
+        {{ content }}
+      </div>
+      <div class="pagination">
+        <nav aria-label="Page navigation example">
+            <ul class="pagination">
+                <li class="page-item"><a class="page-link" href="#" onclick="prev()">Previous</a></li>
+                <li class="page-item"><a class="page-link" href="#" onclick="next()">Next</a></li>
+            </ul>
+        </nav>
+      </div>
+    </main>
+
+<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.6/umd/popper.min.js" integrity="sha384-wHAiFfRlMFy6i5SRaxvfOCifBUQy1xHdJ/yoi7FRNXMRBu5WHdZYu1hA6ZOblgut" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/js/bootstrap.min.js" integrity="sha384-B0UglyR+jN6CkvvICOB2joaf5I4l3gm9GU6Hc1og6Ls7i6U/mkkaduKaBhlAXv9k" crossorigin="anonymous"></script>
+
+  </body>
+</html>
