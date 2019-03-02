@@ -1,6 +1,6 @@
 ---
 layout: default
-category: news
+category: News
 title: Have you met ... Alex?
 ---
 ![have you met ... Alex?]({{site.baseurl}}/images/covers/have-you-met-alex.png)
