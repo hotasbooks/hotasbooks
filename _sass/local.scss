@@ -198,6 +198,16 @@ img[src$='#center'] {
     margin-right: auto;
 }
 
+img[src$='#left-wrap'] {
+    float: left;
+    margin-right: 1em;
+}
+
+img[src$='#left-wrap'] {
+    float: right;
+    margin-left: 1em;
+}
+
 div.buy-links {
     margin: 0.5em auto;
     text-align: center;

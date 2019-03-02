@@ -3,7 +3,7 @@ layout: post
 category: News
 title: Have you met ... Alex?
 ---
-![have you met ... Alex?]({{site.baseurl}}/images/covers/have-you-met-alex.png)
+![have you met ... Alex?]({{site.baseurl}}/images/covers/have-you-met-alex.png#left-wrap)
 
 Earlier this month, I asked you to tell me what you wanted for Alex. Here is the short but not sweet holiday romance you asked for! 
 
