@@ -141,6 +141,17 @@ img.round {
     }
 }
 
+
+.post {
+    li.latest-news a, li.latest-news:hover a {
+        background-color: #fff;
+        color: #941b0b;
+        border-bottom: 2px solid #fff;
+        font-weight: bold;
+        cursor: default;
+    }
+}
+
 @media (max-width: 800px) {
     nav ul li, nav ul li:hover {
         display: block;
