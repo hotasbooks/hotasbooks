@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: My heart is still shattered
 category: News
 ---

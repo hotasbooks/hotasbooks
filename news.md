@@ -2,7 +2,6 @@
 layout: default
 title: News
 ---
-Big news
 <ul class="blog-items">
 {% for post in site.categories.News %}
 {% if post.url %}

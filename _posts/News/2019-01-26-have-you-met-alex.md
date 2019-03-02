@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 category: News
 title: Have you met ... Alex?
 ---
