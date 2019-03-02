@@ -2,9 +2,7 @@
 layout: about
 title: About me
 ---
-## About Kenna Shaw Reed
-
-Romance with a touch of reality.
+## Romance with a touch of reality.
 
 Kenna Shaw Reed lives in sunny Australia with the love of her life and three children. With her dog close by and hubby's cat pretending she doesn't exist, Kenna brings complex and flawed characters to life in romances from heart-wrenching to steamy to military heroes. 
 
