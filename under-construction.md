@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Comming soon
+title: Coming soon
 ---
-![under construction]({{site.baseurl}}/images/typewriter.jpg)
+![under construction]({{site.baseurl}}/images/typewriter.jpg#center)
 
-This page will be updated soon!
+<p style="text-align: center">This page will be updated soon!</p>
