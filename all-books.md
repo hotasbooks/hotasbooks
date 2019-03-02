@@ -1,6 +1,6 @@
 ---
 layout: default
-title: My series
+title: Select a series
 ---
 [![choose your own romance banner]({{site.baseurl}}/images/carousel/web-banner-cyo.png)]({{site.baseurl}}/series/choose-your-own)
 [![Aussie military romance banner]({{site.baseurl}}/images/carousel/web-banner-military-series.png)]({{site.baseurl}}/series/aussie-military-romance)
