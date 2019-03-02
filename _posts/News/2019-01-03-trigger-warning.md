@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Trigger warning
-category: post
+category: News
 ---
 Last April I started the toughest book I'll ever write. Now, the release date is only months away and I can't put it off any longer.
 
