@@ -4,6 +4,7 @@ title: Book Release - The Perfect Wife
 image: the-perfect-wife.png
 category: News
 ---
+![The Perfect Wife]({{site.baseurl}}/images/covers/the-perfect-wife.png#left-wrap){:width="175px"}
 It's been a while since I released my last choose your own romance and I can't wait for you to read [The Perfect Wife](https://www.amazon.com/gp/product/B07NBKTXY9/ "The Perfect Wife").
 
 Brynne Thurlow was Juliette James' friend in [The Unforgiving Wife](https://www.amazon.com/gp/product/B07FCR1K6N/ "The Unforgiving Wife"). Strong and steadfast, I wanted to know more about Brynne but didn't know what would trigger a decision point in her marriage. So, instead of her husband being drawn to another woman, what if his 'mistress' was business? Throw in the challenge of a military hero ex-boyfriend coming back to claim her heart, and I found two of my three male loves.

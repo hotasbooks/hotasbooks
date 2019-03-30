@@ -4,6 +4,7 @@ title: Book Release - Shattered Hearts
 image: shattered-hearts.png
 category: News
 ---
+![Shattered Hearts]({{site.baseurl}}/images/covers/shattered-hearts.png#left-wrap){:width="175px"}
 The day my husband and I lost our first daughter was the day I learned that grief is a full body experience. The tears shed were truly 'ugly' and while we tried to grieve together, our own path to healing was alone.
 
 Last year, a good friend of our other daughter drowned. Holding our teenage daughter at the funeral, I looked around at Georgia's family and all I could think of was "shattered hearts." Then I realised that this year it would have been 18 years since we lost our baby girl.

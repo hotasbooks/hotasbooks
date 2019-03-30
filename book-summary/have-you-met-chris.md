@@ -12,7 +12,7 @@ Then in February, I published [Have You Met ... Scout]({{ site.baseurl }}/book-s
 
 So in March, I asked my readers who they wanted for former politicial staffer Christopher Lowe from  [The Politician's Wife](https://www.amazon.com/dp/B07D67WJ1F/ "The Politician's Wife"). Political opponent or journalist? Here is the short but not sweet romance they asked for! 
 
-Don't want to read it now? No problems, [download it for free](https://dl.bookfunnel.com/a9wy1uv4xe "Have You Met ... Scout") and get a bonus sneak peak from Protect Her.
+Don't want to read it now? No problems, [download it for free](https://dl.bookfunnel.com/a9wy1uv4xe "Have You Met ... Scout") and get a bonus sneak peak from The Politician's Wife.
 
 Enjoy!
 
