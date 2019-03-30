@@ -3,10 +3,10 @@ layout: book-summary
 title: The Perfect Wife
 image: the-perfect-wife.png
 altText: The perfect wife
-AMSUSA: 
-AMSAU:
-AMSUK:
-AMSCA:
+AMSUSA: https://www.amazon.com/gp/product/B07NBKTXY9/
+AMSAU: https://www.amazon.com.au/gp/product/B07NBKTXY9/
+AMSUK: https://www.amazon.co.uk/gp/product/B07NBKTXY9/
+AMSCA: https://www.amazon.ca/gp/product/B07NBKTXY9/
 ---
 ## What if perfect love could happen more than once? Which one would you choose?
 
