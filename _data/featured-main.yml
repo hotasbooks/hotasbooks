@@ -1,6 +1,10 @@
+- image: shattered-hearts.png
+  title: Shattered Hearts
+  content: Could your marriage survive the loss of a child?
+  page: shattered-hearts
 - image: the-perfect-wife.png
   title: The Perfect Wife
-  content: With her husband&apos;s &quot;mistress&quot; is his business and her heart torn in new directions, should Brynne go back to being&hellip;
+  content: When her husband&apos;s &quot;mistress&quot; is his business and her heart torn in new directions, should Brynne go back to being&hellip;
   page: the-perfect-wife
 - image: protect-her.png
   title: Protect Her
@@ -10,7 +14,3 @@
   title: Who is Erebus
   content: Definitely a (reformed?) bad boy and with more steam than a sauna, if you met him in The Intern, you’ll want to know&hellip;
   page: who-is-erebus
-- image: the-politician-wife.png
-  title: The Polician&apos;s Wife
-  content: He promised he&apos;d love her forever. Until Susannah discovered it was a politician&apos;s promise and she was only&hellip;
-  page: the-politicians-wife

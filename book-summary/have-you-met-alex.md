@@ -760,3 +760,11 @@ To hell with waiting for Simone to come to either him or her senses. She had eve
 “Kiss me like you mean it.”
 
 So he did.
+
+
+THE END
+
+Thank you for reading Have you met ... Alex. We met him in my choose your own romance, [The Uni Student](https://www.amazon.com/gp/product/B076NRVM5M/ "The Uni Student") and now he has gotten the happily ever after he deserves.
+
+While you're here, [Have You Met ... Scout]({{ site.baseurl }}/book-summary/have-you-met-scout.html "Have You Met ... Scout")? Our military man Scout needs to make a decision before he loses the girl of his heart. Check it out online or [download it for free to read later](https://dl.bookfunnel.com/a9wy1uv4xe "Have You Met ... Scout") and get a bonus sneak peak from Protect Her.
+

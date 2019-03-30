@@ -47,3 +47,5 @@ These three men send Ava's head and heart spinning. Who will Ava end up with? Yo
 Other books with Ava: [The Bad Kitty](https://www.amazon.com/dp/B07N1XZM99/ "The Bad Kitty") 
 
 Other books with Geoffrey: [Trusting his Heart](https://www.amazon.com/dp/B078T3LM28/ "Trusting his Heart") [The Intern](https://www.amazon.com/gp/product/B078ZW34LX/ "The Intern") 
+
+Check out my free short, stand-alone romance with Alex: [Have You Met ... Alex]({{ site.baseurl }}/book-summary/have-you-met-alex.html "Have You Met ... Alex"). 

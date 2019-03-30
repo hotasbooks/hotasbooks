@@ -28,3 +28,13 @@ How can she prove he’s still got everything to make her satisfied when he sees
 Will Invictus help him see their future or will he push her away forever?
 
 **Protect Her** is for every woman who loves a military hero. The romance is real, story compelling, and the steam is hot. **Get Protect Her today.**
+
+
+
+Other books with Damon 'Mack' Mackenzie: [Avenge Her](https://www.amazon.com/dp/B07J1V9GV8/ "Avenge Her") 
+
+Other books with Captain Darby Greenwood: [Avenge Her](https://www.amazon.com/dp/B07J1V9GV8/ "Avenge Her") 
+
+Other books with Captain Doug Whitehead: Save Her (coming 26 April 2019)
+
+Check out my free short, stand-alone romance with Scout: [Have You Met ... Scout]({{ site.baseurl }}/book-summary/have-you-met-scout.html "Have You Met ... Scout"). 
