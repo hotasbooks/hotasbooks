@@ -30,10 +30,9 @@ And even though Maddie knows what he does for a living, can she accept what he d
 **Avenge Her** is for every woman who loves a military hero. The romance is real, story compelling, and the steam is hot. **Get Avenge Her today.**
 
 
-Other books with Captain Darby Greenwood: [Protect Her](https://www.amazon.com/dp/B07J429XPV/ "Protect Her") 
+Other books with:
+- Captain Darby Greenwood: [Protect Her](https://www.amazon.com/dp/B07J429XPV/ "Protect Her") 
+- Damon 'Mack' Mackenzie: [Protect Her](https://www.amazon.com/dp/B07J429XPV/ "Protect Her") 
+- Captain Doug Whitehead: [Save Her](https://www.amazon.com/dp/B07QXP78SZ/ "Save Her")
 
-Other books with Damon 'Mack' Mackenzie: [Protect Her](https://www.amazon.com/dp/B07J429XPV/ "Protect Her") 
-
-Other books with Captain Doug Whitehead: Save Her (coming 26 April 2019)
-
-Check out my free short, stand-alone romance with Scout: [Have You Met ... Scout]({{ site.baseurl }}/book-summary/have-you-met-scout.html "Have You Met ... Scout"). 
+Check out my free short, stand-alone military romance with Scout: [Have You Met ... Scout]({{ site.baseurl }}/book-summary/have-you-met-scout.html "Have You Met ... Scout"). 

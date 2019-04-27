@@ -31,10 +31,10 @@ Will Invictus help him see their future or will he push her away forever?
 
 
 
-Other books with Damon 'Mack' Mackenzie: [Avenge Her](https://www.amazon.com/dp/B07J1V9GV8/ "Avenge Her") 
+Other books with:
+- Damon 'Mack' Mackenzie: [Avenge Her](https://www.amazon.com/dp/B07J1V9GV8/ "Avenge Her") 
+- Captain Darby Greenwood: [Avenge Her](https://www.amazon.com/dp/B07J1V9GV8/ "Avenge Her") 
+- Captain Doug Whitehead: [Save Her](https://www.amazon.com/dp/B07QXP78SZ/ "Save Her")
 
-Other books with Captain Darby Greenwood: [Avenge Her](https://www.amazon.com/dp/B07J1V9GV8/ "Avenge Her") 
 
-Other books with Captain Doug Whitehead: Save Her (coming 26 April 2019)
-
-Check out my free short, stand-alone romance with Scout: [Have You Met ... Scout]({{ site.baseurl }}/book-summary/have-you-met-scout.html "Have You Met ... Scout"). 
+Check out my free short, stand-alone military romance with Scout: [Have You Met ... Scout]({{ site.baseurl }}/book-summary/have-you-met-scout.html "Have You Met ... Scout"). 

@@ -846,8 +846,8 @@ So, he did.
 
 THE END
 
-Thank you for reading Have you met ... Chris, the third of my free, short but not sweet romances.
+Thank you for reading **_Have you met ... Chris_**, the third of my free, short but not sweet romances.
 
-Christopher Lowe is not new to my readers he was one of Susannah's loves in the choose your own romance, The Politician's Wife. Chosse your own romances are an exciting new sub-genre of romance where YOU get to decide which sexy man is our heroine's happily ever after. 
+Christopher Lowe is not new to my readers he was one of Susannah's loves in the choose your own romance, The Politician's Wife. Cho9se your own romances are an exciting new sub-genre of romance where YOU get to decide which sexy man is our heroine's happily ever after. 
 
 Join my readers and get a [Free, full length choose your own romance, The Bad Kitty](https://dl.bookfunnel.com/ux2860c7sy "Free, full length choose your own romance, The Bad Kitty") today. Make your choices, and if you change your mind, go back and choose again. 
