@@ -1,16 +1,20 @@
-- image: have-you-met-alex.png
-  title: Have you met ... Alex?
-  content: Alex gets his happily ever after. Short, but definitely not sweet.
-  page: have-you-met-alex
-- image: have-you-met-scout.png
-  title: Have you met ... Scout?
-  content: Scout gets his happily ever after. Short, but definitely not sweet.
-  page: have-you-met-scout
-- image: have-you-met-chris.png
-  title: Have you met ... Chris?
-  content: Chris breaks the only rule in politics for his happily ever after.
-  page: have-you-met-chris
+- image: have-you-met-robert.png
+  title: Have you met ... Robert?
+  content: JUST RELEASED Will one word destry Robert's happily ever after?
+  page: have-you-met-robert
 - image: have-you-met-tony.png
   title: Have you met ... Tony?
-  content: JUST RELEASED! Is the woman in Tony's heart already in his life?
+  content: Is the woman in Tony's heart already in his life? April 19
   page: have-you-met-tony
+- image: have-you-met-chris.png
+  title: Have you met ... Chris?
+  content: Chris breaks the only rule in politics for his happily ever after. March 19
+  page: have-you-met-chris
+- image: have-you-met-scout.png
+  title: Have you met ... Scout?
+  content: Scout gets his happily ever after. Short, but definitely not sweet. February 19
+  page: have-you-met-scout
+- image: have-you-met-alex.png
+  title: Have you met ... Alex?
+  content: Alex gets his happily ever after. Short, but definitely not sweet. January 19
+  page: have-you-met-alex

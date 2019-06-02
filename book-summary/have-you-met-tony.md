@@ -45,7 +45,7 @@ Most of his friends were just as broke and worked just as hard.
 
 “Ouch, that’s a bit harsh,” he smiled. Rose always seemed interested in his songs, sometimes closing her eyes to listen harder. Usually she hung out with but slightly separated from the posse of girls. “How are you, Rose?”
 
-“If you want your ego increased, ask the other girls.”
+“If you want your ego stroked, ask the other girls.”
 
 “I didn’t even ask your opinion.”
 
@@ -82,89 +82,89 @@ He’d started looking for her in every crowd, and sometimes when he needed to f
 
 It was almost two am by the time Tony arrived to his small unit in the western suburbs of Sydney. Cheap and nasty, it was his only non-musical extravagance. He’d ripped out all the walling the week after getting the keys and stuffed the internal walls with sound proof batts. Ideal for sleeping during the day and playing around with his keyboard at night. The neighbours didn’t even notice when he had friends around for some jamming sessions. A small price to pay to hold onto fragments of his dream. When he and his musician friends got together, it was easy to pretend they were all still young with the world at their feet. Instead of aging has-beens and never-beens.
 
-“Hi, sexy. How was tonight?” If it wasn’t talking with Rose, the highlight of his life was the nightly message on his social media account from the mysterious, “Teasing Georgia.”
+“_Hi, sexy. How was tonight?_” If it wasn’t talking with Rose, the highlight of his life was the nightly message on his social media account from the mysterious, “Teasing Georgia.”
 
-“Fine how was your night,” he replied, watching his laptop bubble away while he decided between another coffee or a hot chocolate. Sometimes, they could chat online for hours. 
+“_Fine how was your night_,” he replied, watching his laptop bubble away while he decided between another coffee or a hot chocolate. Sometimes, they could chat online for hours. 
 
-“Just chilling listening to music. How was the crowd?” The lovely Teasing Georgia was in a chatty mood. Tony put away the chocolate powder and turned on the coffee machine.
+“_Just chilling listening to music. How was the crowd?_” The lovely Teasing Georgia was in a chatty mood. Tony put away the chocolate powder and turned on the coffee machine.
 
-“Better than I deserved.” Tony knew that giving her a simple “OK,” wouldn’t be enough detail. Pushy wench, he smiled. Then again, Rose’s comments about him being flat had hit a nerve. “I think I need to own my playlist and do less requests,” he typed before Teasing Georgia had time to respond.
+“_Better than I deserved._” Tony knew that giving her a simple “OK,” wouldn’t be enough detail. Pushy wench, he smiled. Then again, Rose’s comments about him being flat had hit a nerve. “_I think I need to own my playlist and do less requests_,” he typed before Teasing Georgia had time to respond.
 
-“Why would you do that?”
+“_Why would you do that?_”
 
-Why indeed? He could hardly blame it on the random musings of a girl in a wheelchair. Even if she was right. “Because I keep getting asked the same songs that I’ve been playing for 15 years.”
+Why indeed? He could hardly blame it on the random musings of a girl in a wheelchair. Even if she was right. “_Because I keep getting asked the same songs that I’ve been playing for 15 years._”
 
-“Why?”
+“_Why?_”
 
-“Why what?”
+“_Why what?_”
 
-“Why do you keep playing them?”
+“_Why do you keep playing them?_”
 
-“Because people keep bloody requesting them,” his keyboard snapped. Some nights she asked the dumbest questions.
+“_Because people keep bloody requesting them,_” his keyboard snapped. Some nights she asked the dumbest questions.
 
-“Why?”
+“_Why?_”
 
-“Why what?” Tony had his coffee, he could play this game all night – but could Teasing Georgia?
+“_Why what?_” Tony had his coffee, he could play this game all night – but could Teasing Georgia?
 
-“Why do they keep requesting the songs if they’re bad songs?”
+“_Why do they keep requesting the songs if they’re bad songs?_”
 
-“They’re not bad songs. I’m sick of playing the same songs night after night.”
+“_They’re not bad songs. I’m sick of playing the same songs night after night._”
 
-“What’s stopping you from playing them like it’s the first time?”
+“_What’s stopping you from playing them like it’s the first time?_”
 
-“But it isn’t the first time,” Tony started to regret the coffee. This conversation wasn’t going anywhere, and he could do with the sleep.
+“_But it isn’t the first time,_” Tony started to regret the coffee. This conversation wasn’t going anywhere, and he could do with the sleep.
 
-“When was the last time you kissed a woman?” Wow! Teasing Georgia’s last message hit him from out of the blue. Tony didn’t want to sound like a player but the truth was that he’d kissed more than his fair share of women – and most of them and had been at his concerts.
+“_When was the last time you kissed a woman?_” Wow! Teasing Georgia’s last message hit him from out of the blue. Tony didn’t want to sound like a player but the truth was that he’d kissed more than his fair share of women – and most of them and had been at his concerts.
 
-“Last weekend, there was a blonde,” he typed, pressing “send” before he could change his mind.
+“_Last weekend, there was a blonde,_” he typed, pressing “send” before he could change his mind.
 
-“There’s always a blonde with you.”
+“_There’s always a blonde with you._”
 
-“What’s your point?”
+“_What’s your point?_”
 
-“I assume you kissed women before – probably for at least 15 years?”
+“_I assume you kissed women before – probably for at least 15 years?_”
 
-“Yes but,” he replied, still not knowing how to continue this sort of conversation.
+“_Yes but,_” he replied, still not knowing how to continue this sort of conversation.
 
-“My point is that every woman is different. Every woman is going to respond to a kiss differently.”
+“_My point is that every woman is different. Every woman is going to respond to a kiss differently._”
 
 Tony waited for her to continue, the logic hitting him over the head like a sledge hammer. 
 
-“Each crowd is going to respond differently to each song. Depending on whether they got paid today, laid off, fought or made up with their partner. The songs are popular because the words speak to people. Your job is to get a feel for the crowd and sing it the way they need.”
+“_Each crowd is going to respond differently to each song. Depending on whether they got paid today, laid off, fought or made up with their partner. The songs are popular because the words speak to people. Your job is to get a feel for the crowd and sing it the way they need._”
 
-“That’s a tough gig.”
+“_That’s a tough gig._”
 
-“That’s why you get paid the big bucks.”
+“_That’s why you get paid the big bucks._”
 
-He had to laugh at that one. Most professional musicians didn’t even make minimum wage from their music alone. “What if it’s a love song?”
+He had to laugh at that one. Most professional musicians didn’t even make minimum wage from their music alone. “_What if it’s a love song?_”
 
-“Then find someone you can sing it for.”
+“_Then find someone you can sing it for._”
 
 Tony thought back to the times he’d sung to Rose, knowing that she was safe and understood.
 
-“That’s your advice? Sing to a woman?”
+“_That’s your advice? Sing to a woman?_”
 
-“Sing to a man, I won’t judge 😊”
+“_Sing to a man, I won’t judge_ 😊”
 
-“Cheeky girl.”
+“_Cheeky girl._”
 
-“Instead of treating each crowd the same and each gig like any other, go out and mingle before your first set. Get to know them and match the song to a person or group in the crowd.”
+“_Instead of treating each crowd the same and each gig like any other, go out and mingle before your first set. Get to know them and match the song to a person or group in the crowd._”
 
-“You mean, sing to someone like you?” Tony responded without thinking about the consequences. He didn’t know Teasing Georgia. Who she was, where she lived or even what she looked like. All he knew was that each night he logged on hoping to see her latest message.
+“_You mean, sing to someone like you?_” Tony responded without thinking about the consequences. He didn’t know Teasing Georgia. Who she was, where she lived or even what she looked like. All he knew was that each night he logged on hoping to see her latest message.
 
-“Ha!” a quick response, followed by, “When I imagine you with woman, she’s like the blonde you kissed last week. Classical blonde to your dark scruffy hair and muscles.”
+“_Ha!_” a quick response, followed by, “_When I imagine you with woman, she’s like the blonde you kissed last week. Classical blonde to your dark scruffy hair and muscles._”
 
-“Well tonight I don’t have a tall blonde keeping me company. I have a flat black keyboard with your name on it.” Tony decided it wouldn’t hurt to repeat his usual question, “When am I going to meet you?”
+“_Well tonight I don’t have a tall blonde keeping me company. I have a flat black keyboard with your name on it._” Tony decided it wouldn’t hurt to repeat his usual question, “_When am I going to meet you?_”
 
-“Or not.”
+“_Or not._”
 
-“Seriously we’ve been having this conversation for months now. You know me better than I know myself. You’re even the reason I changed up some of my sets. When, not if, am I going to meet you?” He hadn’t been so firm before, but it was almost three am and he needed sleep.
+“_Seriously we’ve been having this conversation for months now. You know me better than I know myself. You’re even the reason I changed up some of my sets. When, not if, am I going to meet you?_” He hadn’t been so firm before, but it was almost three am and he needed sleep.
 
-“Like I’ve told you, life is complicated. If we meet, the mystery would be gone.”
+“_Like I’ve told you, life is complicated. If we meet, the mystery would be gone._”
 
-“I’m not seeing how mystery is working for me or not when all we’ve become are words on the keyboard screen.”
+“_I’m not seeing how mystery is working for me or not when all we’ve become are words on the keyboard screen._”
 
-“But when you look out into the crowd, I could be anyone. Goodnight.”
+“_But when you look out into the crowd, I could be anyone. Goodnight._”
 
 Tony knew Teasing Georgia well enough to know that any time he tried to bridge the divide between them, bring their friendship into real life or at least find out her real name, she closed down the conversation. He’d tried to track her down a couple of times. Getting as far as confirming she lived in or near Sydney and had been impacted by the electrical storm a couple of months ago. Not that he could get her to admit anything.
 
@@ -183,7 +183,7 @@ No. Nothing good could come from meeting, ever. Lately, no matter the personal c
 
 Yes, in a twisted logic, Teasing Georgia convinced herself that by being pen pals, they never needed to put a face to the words.
 
-“Good night, I think I’m falling in love with you,” his words appeared out of nowhere.
+“_Good night, I think I’m falling in love with you,_” his words appeared out of nowhere.
 
 
 Another night, another gig. Tony tried to channel Teasing Georgia. Changing up the songs, freestyling, making the lyrics more relevant to the crowd. At first, he got their attention in a bemused kind of way but when Rose winked, he knew he could make spontaneity work without losing his fans. Or at least losing Rose.
@@ -240,63 +240,63 @@ Tony tried to think back to the last time he’d actually been the one doing the
 
 The woman known as Teasing Georgia logged on to her computer as soon as she awoke. To her disappointment, no messages awaited. Nothing to tell her about last night, whether her advice had upset him or whether he’d finally met someone and didn’t need an online friend anymore.
 
-“How was the gig?” she typed and held her finger for a minute too long before changing her mind. One by one the letters disappeared from the screen. Perhaps it was time that Tony started their conversation.
+“_How was the gig?_” she typed and held her finger for a minute too long before changing her mind. One by one the letters disappeared from the screen. Perhaps it was time that Tony started their conversation.
 
-“Morning gorgeous,” his words bubbled through mid-morning.
+“_Morning gorgeous,_” his words bubbled through mid-morning.
 
-“Morning yourself. How was last night?” Now that he’d started the conversation, maybe one day it would be about more than Tony and his world.
+“_Morning yourself. How was last night?_” Now that he’d started the conversation, maybe one day it would be about more than Tony and his world.
 
-“Great. But how was your night? I didn’t see a message from you before I went to sleep and I got worried.”
+“_Great. But how was your night? I didn’t see a message from you before I went to sleep and I got worried._”
 
-Wow, that was unexpected. “Just a quiet night with me and the TV.”
+Wow, that was unexpected. “_Just a quiet night with me and the TV._”
 
-“Anything that I should watch if I ever got a night off?”
+“_Anything that I should watch if I ever got a night off?_”
 
-“Yeah,” and Teasing Georgia described a movie she had watched on the weekend.
+“_Yeah,_” and Teasing Georgia described a movie she had watched on the weekend.
 
-“I heard about that one. Meaning to watch it when I have time.”
+“_I heard about that one. Meaning to watch it when I have time._”
 
-“You should,” she encouraged. 
+“_You should,_” she encouraged. 
 
-“How about next time I get the night off, we pick the same movie and watch it together?”
+“_How about next time I get the night off, we pick the same movie and watch it together?_”
 
-“That would mean meeting in person,” she laughed. He never gave up, and part of her didn’t want him to.
+“_That would mean meeting in person,_” she laughed. He never gave up, and part of her didn’t want him to.
 
-“Well if you still don’t want to see my ugly face, we can watch the same movie but you at home and me at my place.”
+“_Well if you still don’t want to see my ugly face, we can watch the same movie but you at home and me at my place._”
 
 Who the hell was this new improved Tony?
 
-“Sounds like a good idea but don’t you have an active social life?”
+“_Sounds like a good idea but don’t you have an active social life?_”
 
-“It got complicated last night.”
+“_It got complicated last night._”
 
-“How so?”
+“_How so?_”
 
-“I don’t know how to tell you.”
+“_I don’t know how to tell you._”
 
-“Start at the beginning. No judgement.”
+“_Start at the beginning. No judgement._”
 
-“But I feel weird talking to you about another woman.”
+“_But I feel weird talking to you about another woman._”
 
-“Don’t be,” her heart stopped. “We’re just friends.”
+“_Don’t be,_” her heart stopped. “_We’re just friends._”
 
-There was a long pause before Tony replied. “Ok, here’s the thing my beautiful Teasing Georgia. I think you are absolutely amazing and in so many ways you are the perfect woman except you won’t let me meet you in person.”
+There was a long pause before Tony replied. “_Ok, here’s the thing my beautiful Teasing Georgia. I think you are absolutely amazing and in so many ways you are the perfect woman except you won’t let me meet you in person._”
 
-“What you’re saying is I’m a figment of your imagination. I am the perfect mirror of you.”
+“_What you’re saying is I’m a figment of your imagination. I am the perfect mirror of you._”
 
-“I didn’t say that.”
+“_I didn’t say that._”
 
-“What does your perfect woman look like anyway?”
+“_What does your perfect woman look like anyway?_”
 
-“I’m starting to think that she’s you.”
+“_I’m starting to think that she’s you._”
 
 Teasing Georgia brushed away her tears so she could read the words Tony didn’t mean. It had been fun, but she needed to find the courage and end this charade before she got more hurt. 
 
-“You can’t.” Teasing Georgia sent a series of short messages before Tony could get a word in. “You don’t even know me.” “You close your eyes and imagine me as this perfect woman but you don’t know me.” Finally, “I’m not perfect and I’m not perfect for you.”
+“_You can’t._” Teasing Georgia sent a series of short messages before Tony could get a word in. “_You don’t even know me._” “_You close your eyes and imagine me as this perfect woman but you don’t know me._” Finally, she typed, “_I’m not perfect and I’m not perfect for you._”
 
-“For almost four months, I’ve been trying to rectify that!” Tony wasn’t giving up without a fight. “Come on, Teasing Georgia. I know you live nearby. I know that we like a lot of the same things. Why can’t we just meet for coffee?”
+“_For almost four months, I’ve been trying to rectify that!_” Tony wasn’t giving up without a fight. “_Come on, Teasing Georgia. I know you live nearby. I know that we like a lot of the same things. Why can’t we just meet for coffee?_”
 
-“I have to go. Bye.” Teasing Georgia quickly put away her laptop and got ready to go out. The most dangerous thing would be to stay in the house with internet access, vulnerable to the Tony who had decided to talk to her as if she was important in his life.
+“_I have to go. Bye._” Teasing Georgia quickly put away her laptop and got ready to go out. The most dangerous thing would be to stay in the house with internet access, vulnerable to the Tony who had decided to talk to her as if she was important in his life.
 
 Locking her door, Teasing Georgia left to catch up with friends and put aside the mess she’d created online. The man she wanted thought he was falling in love with her. But how could he ever forgive her if the truth came out?
 
@@ -474,95 +474,95 @@ Rose didn’t push his hand away as he kissed it, wishing another real kiss coul
 “I can’t ask for any more,” Rose kissed each of his finger tips. “Just remember, I’ve loved you longer than you could possibly imagine and no matter what happens with this woman online, I will always love you.”
 
 
-Teasing Georgia didn’t expect an early evening message from Tony. “Can we talk?”
+Teasing Georgia didn’t expect an early evening message from Tony. “_Can we talk?_”
 
-That didn’t sound good. “Sure,” she typed.
+That didn’t sound good. “_Sure,_” she typed.
 
 There was a long pause as the bubbles indicated he was typing but minutes passed before words appeared on the screen. 
 
-“How do you feel about me?”
+“_How do you feel about me?_”
 
-Such few words for such a long time of writing, “I think you know how I feel.”
+Such few words for such a long time of writing, “_I think you know how I feel._”
 
-“No, I really don’t. I keep telling you that your perfect to me but you refuse to even meet.”
+“_No, I really don’t. I keep telling you that your perfect to me but you refuse to even meet._”
 
-“Perhaps, I’m not so perfect,” she wondered if this was going to be a soft ending to what had been a wonderful relationship.
+“_Perhaps, I’m not so perfect,_” she wondered if this was going to be a soft ending to what had been a wonderful relationship.
 
-“Are you ever going to agree to meet me?”
+“_Are you ever going to agree to meet me?_”
 
-“Why would you want to spoil something you say is perfect?”
+“_Why would you want to spoil something you say is perfect?_”
 
 Teasing Georgia had waited months for Tony to give her an ultimatum, wanting him to prove that he was prepared to accept whomever she was. No matter what she looked like, where she lived or how she lived her life. If he couldn’t prove all of that, she was prepared to remain in his life as a confidant – a trusted friend.
 
-“I think I’m in love with two women.”
+“_I think I’m in love with two women._”
 
-Tony’s unexpected words were like a punch to her gut. “Do I dare ask their names?”
+Tony’s unexpected words were like a punch to her gut. “_Do I dare ask their names?_”
 
-Seconds seemed like minutes before he replied, “One of them is you but if you don’t agree to meet with me then it doesn’t matter who the other person is.”
+Seconds seemed like minutes before he replied, “_One of them is you but if you don’t agree to meet with me then it doesn’t matter who the other person is._”
 
-“Why’s that?” her fingers took several attempts before hitting the right keys.
+“_Why’s that?_” her fingers took several attempts before hitting the right keys.
 
-“Because if you care about me as much as I care about you, you would want to see if we can take this into the real world. I’m not going to put my life on hold waiting for you to change your mind.”
+“_Because if you care about me as much as I care about you, you would want to see if we can take this into the real world. I’m not going to put my life on hold waiting for you to change your mind._”
 
-That was insulting! “Tony, you haven’t put your life on hold for me!” Biting back harsher truths that would give away her secrets, Teasing Georgia typed, “In your own words, you go out every night, living your life with a thousand women crying for you and begging for you to take them home.”
+That was insulting! “_Tony, you haven’t put your life on hold for me!_” Biting back harsher truths that would give away her secrets, Teasing Georgia typed, “_In your own words, you go out every night, living your life with a thousand women crying for you and begging for you to take them home._”
 
-The bubbles showed he was typing, but she wasn’t finished. “I’m just the person you talk to when you’re lonely and have no one else.”
+The bubbles showed he was typing, but she wasn’t finished. “_I’m just the person you talk to when you’re lonely and have no one else._”
 
-“That’s not true!!!!!” Tony came back as quickly as her tears fell. “I talk to you because I like you.”
+“_That’s not true!!!!!_” Tony came back as quickly as her tears fell. “_I talk to you because I like you._”
 
-“You don’t know anything about me.”
+“_You don’t know anything about me._”
 
-“Well, who’s fault is that?”
+“_Well, who’s fault is that?_”
 
 Teasing Georgia took a breath, wanting to slow down the argument before one of them said something unforgivable. What he said was an inconvenient truth. Ever since he connected with her online, she’d set herself up to be his sounding board – almost a reflection of his good self.
 
-“Where do you see us going? If we did meet?” she asked.
+“_Where do you see us going? If we did meet?_” she asked.
 
-“We could start with coffee? We could work up to you coming to one of my gigs.”
+“_We could start with coffee? We could work up to you coming to one of my gigs._”
 
-“How do you know that I haven’t already been to one of your gigs?” she teased feeling safer with this type of banter.
+“_How do you know that I haven’t already been to one of your gigs?_” she teased feeling safer with this type of banter.
 
-“Surely you would have told me – I thought we were honest with each other.”
+“_Surely you would have told me – I thought we were honest with each other._”
 
 That hurt, as the truth often did.
 
-“What if I come to one of your gigs and we can meet up afterwards?”
+“_What if I come to one of your gigs and we can meet up afterwards?_”
 
 A long pause and not even bubbles appeared on the screen to show that he was typing.
 
-“Please don’t,” appeared out of the blue.
+“_Please don’t,_” appeared out of the blue.
 
-“Why not,” she thought that would be what he wanted.
+“_Why not?_” she thought that would be what he wanted.
 
-“Because if she’s there and you turn up, it would only get uncomfortable for her and I refuse to do anything that could hurt Rose.”
+“_Because if she’s there and you turn up, it would only get uncomfortable for her and I refuse to do anything that could hurt Rose._”
 
-“So, Rose is the woman you love?” Each key hit with precision. Her life or at least happiness relied on his answer.
+“_So, Rose is the woman you love?_” Each key hit with precision. Her life or at least happiness relied on his answer.
 
-“Like I said, I think I love you both but I’ve only met one of you.”
+“_Like I said, I think I love you both but I’ve only met one of you._”
 
-“Have you slept with her?”
+“_Have you slept with her?_”
 
 Another pause, what could he be wanting to hide?
 
-“No, but we shared the most incredible kiss.”
+“_No, but we shared the most incredible kiss._”
 
-“So, you want to meet me just to decide which one of us is a better kisser?”
+“_So, you want to meet me just to decide which one of us is a better kisser?_”
 
-“No! Nothing like that.”
+“_No! Nothing like that._”
 
-More slowly, she typed, “What if all we have are words on a computer screen?”
+More slowly, she typed, “_What if all we have are words on a computer screen?_”
 
-“I don’t know how much of you and your life is real and how much of it is bullshit! I mean, everything you’ve said could be a lie.”
+“_I don’t know how much of you and your life is real and how much of it is bullshit! I mean, everything you’ve said could be a lie._”
 
-“You could be lying to me,” Teasing Georgia snapped back. Life and love shouldn’t be this complicated.
+“_You could be lying to me,_” Teasing Georgia snapped back. Life and love shouldn’t be this complicated.
 
-“That’s crap and you know it. Anything I’ve told you can be checked out on social media. Just about every gig and every woman I’ve ever had a photo with is online somewhere.”
+“_That’s crap and you know it. Anything I’ve told you can be checked out on social media. Just about every gig and every woman I’ve ever had a photo with is online somewhere._”
 
-“I guess,” she admitted. “I don’t know, meeting you would be a big step for me.” An enormous leap of faith and she still didn’t know if he would be up to the challenge.
+“_I guess,_” she admitted. “_I don’t know, meeting you would be a big step for me._” An enormous leap of faith and she still didn’t know if he would be up to the challenge.
 
 Just as she was about to log off and deal with Tony another day, another message appeared.
 
-“Part of me loves you, and another part loves Rose. I’m not trying to be a bastard, but until we meet, how on earth am I supposed to know for sure.”
+“_Part of me loves you, and another part loves Rose. I’m not trying to be a bastard, but until we meet, how on earth am I supposed to know for sure._”
 
 The screen went blank and she saw he’d logged off. No, “good bye” or “see you around.” Teasing Georgia closed her laptop and curled up in bed. Nothing could distract her; not one of the fifty TV channels, none of her playlists. Not even her other social media accounts filled with funny memes.
 
