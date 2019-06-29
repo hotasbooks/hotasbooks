@@ -7,7 +7,7 @@ title: Have you met ... Tony?
 
 Earlier this month, I asked you to tell me what you wanted for Tony de Marco, the piano player who pulled Sienna up on stage in [The Question Is](https://www.amazon.com/gp/product/B07BJKM8DT/ "The Question Is"). [Have you met ... Tony]({{site.baseurl}}/book-summary/have-you-met-tony) is the short but not sweet holiday romance you asked for and the fourth monthly free novel I've written just for you! 
 
-Don't want to read it in the blog? No problems, [download](https://dl.bookfunnel.com/qjj6ee22vx) it and get a bonus sneak peak from my military romance, Protect Her.
+Don't want to read it in the blog? No problems, [download](https://dl.bookfunnel.com/qjj6ee22vx) it and get a bonus sneak peek from my military romance, Protect Her.
 
 Enjoy!
 

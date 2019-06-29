@@ -10,7 +10,7 @@ Sometimes there are minor characters in my books that make us want more. Early t
 
 So in February, I asked my readers who they wanted for military hero Scout from [Protect Her](https://www.amazon.com/dp/B07J429XPV/ "Protect Her"). Military nurse or female soldier. Here is the short but not sweet romance they asked for! 
 
-Don't want to read it now? No problems, [download it for free](https://dl.bookfunnel.com/a9wy1uv4xe "Have You Met ... Scout") and get a bonus sneak peak from Protect Her.
+Don't want to read it now? No problems, [download it for free](https://dl.bookfunnel.com/a9wy1uv4xe "Have You Met ... Scout") and get a bonus sneak peek from Protect Her.
 
 Enjoy!
 
@@ -753,4 +753,4 @@ THE END
 Love a military hero? Join my readers and get a [Free Extract](https://dl.bookfunnel.com/a9wy1uv4xe "Free Extract") from Avenge Her and Protect Her, the first two books in my Aussie Military Romance series.
 THE END
 
-While you're here, [Have You Met ... Chris]({{ site.baseurl }}/book-summary/have-you-met-chris.html "Have You Met ... Chris")? Former political staffer Christopher Lowe knows there is only one rule in running for office: never fall in love with your opponent. Will he? Check it out online or [download it for free to read later](https://dl.bookfunnel.com/yebe4xri8k "Have You Met ... Chris") and get a bonus sneak peak from my choose your own romance, The Politician's Wife.
+While you're here, [Have You Met ... Chris]({{ site.baseurl }}/book-summary/have-you-met-chris.html "Have You Met ... Chris")? Former political staffer Christopher Lowe knows there is only one rule in running for office: never fall in love with your opponent. Will he? Check it out online or [download it for free to read later](https://dl.bookfunnel.com/yebe4xri8k "Have You Met ... Chris") and get a bonus sneak peek from my choose your own romance, The Politician's Wife.

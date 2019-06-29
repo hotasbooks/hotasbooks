@@ -8,7 +8,7 @@ BF: https://dl.bookfunnel.com/z1sedmwbgy
 
 Sometimes there are characters in my books that make us want more. Early this year, I asked my readers to tell me what they wanted for Alex MacFarlane from [The Uni Student](https://www.amazon.com/gp/product/B076NRVM5M/ "The Uni Student"). Here is the short but not sweet holiday romance they asked for! 
 
-Don't want to read it now? No problems, [download it for free](https://dl.bookfunnel.com/z1sedmwbgy "Have You Met ... Alex") and get a bonus sneak peak from  The Uni Student.
+Don't want to read it now? No problems, [download it for free](https://dl.bookfunnel.com/z1sedmwbgy "Have You Met ... Alex") and get a bonus sneak peek from  The Uni Student.
 
 Enjoy!
 
@@ -766,5 +766,5 @@ THE END
 
 Thank you for reading Have you met ... Alex. We met him in my choose your own romance, [The Uni Student](https://www.amazon.com/gp/product/B076NRVM5M/ "The Uni Student") and now he has gotten the happily ever after he deserves.
 
-While you're here, [Have You Met ... Scout]({{ site.baseurl }}/book-summary/have-you-met-scout.html "Have You Met ... Scout")? Our military man Scout needs to make a decision before he loses the girl of his heart. Check it out online or [download it for free to read later](https://dl.bookfunnel.com/a9wy1uv4xe "Have You Met ... Scout") and get a bonus sneak peak from Protect Her.
+While you're here, [Have You Met ... Scout]({{ site.baseurl }}/book-summary/have-you-met-scout.html "Have You Met ... Scout")? Our military man Scout needs to make a decision before he loses the girl of his heart. Check it out online or [download it for free to read later](https://dl.bookfunnel.com/a9wy1uv4xe "Have You Met ... Scout") and get a bonus sneak peek from Protect Her.
 

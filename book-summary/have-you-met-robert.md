@@ -12,7 +12,7 @@ In [Have You Met ... Scout]({{ site.baseurl }}/book-summary/have-you-met-scout.h
 
 [The Intern](https://www.amazon.com/dp/B078ZW34LX/ "The Intern") is one of my favorite choose your own romances. It introduced you to the characters you then loved in [The Unfaithful Wife](https://www.amazon.com/gp/product/B07D91M4Q6/ "The Unfaithful Wife"), [A Billion Reasons Why](https://www.amazon.com/gp/product/B07C3G6YH7/ "A Billion Reasons Why") and [Who is Erebus](https://www.amazon.com/gp/product/B07FCXFKGH/ "Who is Erebus"). But what happened to Robert? Pretend for a moment that when you read The Intern, you didn't pick Robert, Have You Met ... Robert is the happily ever after he deserves.
 
-Don't want to read it now? No problems, [download it for free](https://dl.bookfunnel.com/vuut2dxeg0 "Have You Met ... Robert") and get a bonus sneak peak from military romance, Protect Her.
+Don't want to read it now? No problems, [download it for free](https://dl.bookfunnel.com/vuut2dxeg0 "Have You Met ... Robert") and get a bonus sneak peek from military romance, Protect Her.
 
 Enjoy!
 

@@ -12,7 +12,7 @@ Then in February, I published [Have You Met ... Scout]({{ site.baseurl }}/book-s
 
 Now, I've gone back to one of my earlier choose your own romances, The Question Is and given piano player Tony the short but not sweet romance you asked for.
 
-Don't want to read it now? No problems, [download it for free](https://dl.bookfunnel.com/qjj6ee22vx "Have You Met ... Tony") and get a bonus sneak peak from Protect Her.
+Don't want to read it now? No problems, [download it for free](https://dl.bookfunnel.com/qjj6ee22vx "Have You Met ... Tony") and get a bonus sneak peek from Protect Her.
 
 Enjoy!
 
