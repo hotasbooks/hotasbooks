@@ -30,7 +30,7 @@ When her one attempt to meet someone fails, Elisha's family and business are thr
 
 Other books with:
 - Captain Doug Whitehead: [Avenge Her](https://www.amazon.com/dp/B07J1V9GV8/ "Avenge Her")
-- Lieutenant Colonel Edison Alexander: [The Perfect Wife](https://www.amazon.com/gp/product/B07NBKTXY9/ "The Perfect Wife") and the upcoming military suspense romance, Defend Her
+- Lieutenant Colonel Edison Alexander: [The Perfect Wife](https://www.amazon.com/gp/product/B07NBKTXY9/ "The Perfect Wife") and my newest release, [Defend Her](https://www.amazon.com/dp/B07TSTD7N3/ "Defend Her")
 - Captain Darby Greenwood: [Avenge Her](https://www.amazon.com/dp/B07J1V9GV8/ "Avenge Her") and [Protect Her](https://www.amazon.com/dp/B07J429XPV/ "Protect Her") 
 - Damon 'Mack' Mackenzie: [Avenge Her](https://www.amazon.com/dp/B07J1V9GV8/ "Avenge Her") and [Protect Her](https://www.amazon.com/dp/B07J429XPV/ "Protect Her") 
 

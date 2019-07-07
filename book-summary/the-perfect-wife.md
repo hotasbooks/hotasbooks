@@ -44,5 +44,7 @@ These three men send Brynne's head and heart spinning. Who will she end up with?
 > 
 > Even though my books are grouped into series, there is no "right" entry and each book can be read stand-alone. 
 
-Other books with Brynne: [The Unforgiving Wife](https://www.amazon.com/gp/product/B07FCR1K6N/ "The Unforgiving Wife")
-Other books with Juliette (Brynne's friend): [The Unfaithful Wife](https://www.amazon.com/gp/product/B07D91M4Q6/ "The Unfaithful Wife") (minor character); [The Unforgiving Wife](https://www.amazon.com/gp/product/B07FCR1K6N/ "The Unforgiving Wife") (Juliette is The Unforgiving Wife) 
+Other books with 
+- Brynne: [The Unforgiving Wife](https://www.amazon.com/gp/product/B07FCR1K6N/ "The Unforgiving Wife")
+- Ed Alexander: [Defend Her](https://www.amazon.com/dp/B07TSTD7N3/ "Defend Her") and [Save Her](https://www.amazon.com/dp/B07QXP78SZ/ "Save Her")
+- Juliette (Brynne's friend): [The Unfaithful Wife](https://www.amazon.com/gp/product/B07D91M4Q6/ "The Unfaithful Wife") (minor character); [The Unforgiving Wife](https://www.amazon.com/gp/product/B07FCR1K6N/ "The Unforgiving Wife") (Juliette is The Unforgiving Wife) 

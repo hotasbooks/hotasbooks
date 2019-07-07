@@ -751,6 +751,10 @@ Scout took a massive leap of faith, after all what was the worse thing that coul
 THE END
 
 Love a military hero? Join my readers and get a [Free Extract](https://dl.bookfunnel.com/a9wy1uv4xe "Free Extract") from Avenge Her and Protect Her, the first two books in my Aussie Military Romance series.
-THE END
+Or enjoy them all. Stand-alone, no cheating, happily ever afters guaranteed:  
+- [Avenge Her](https://www.amazon.com/dp/B07J1V9GV8/ "Avenge Her")
+- [Protect Her](https://www.amazon.com/dp/B07J429XPV/ "Protect Her") 
+- [Save Her](https://www.amazon.com/gp/product/B07QXP78SZ/ "Save Her")
+- [Defend Her](https://www.amazon.com/dp/B07TSTD7N3/ "Defend Her")
 
 While you're here, [Have You Met ... Chris]({{ site.baseurl }}/book-summary/have-you-met-chris.html "Have You Met ... Chris")? Former political staffer Christopher Lowe knows there is only one rule in running for office: never fall in love with your opponent. Will he? Check it out online or [download it for free to read later](https://dl.bookfunnel.com/yebe4xri8k "Have You Met ... Chris") and get a bonus sneak peek from my choose your own romance, The Politician's Wife.

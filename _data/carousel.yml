@@ -1,20 +1,20 @@
+- title: Aussie Military Romance
+  image: web-banner-military-series.png
+  altText: military series
+  page: series/aussie-military-romance
+- title: Have you met ...
+  image: web-banner-have-you-met.png
+  altText: have you met series
+  page: series/have-you-met
 - title: Choose your own adventure
   image: web-banner-cyo.png
   altText: choose your own series
   page: series/choose-your-own
-- title: 
-  image: web-banner-have-you-met.png
-  altText: have you met series
-  page: series/have-you-met
-- title: 
-  image: web-banner-military-series.png
-  altText: military series
-  page: series/aussie-military-romance
-- title: 
+- title: Passion without rules
   image: web-banner-no-rules.png
   altText: passion without rules series
   page: series/passion-without-rules
-- title: 
+- title: Romance with passion
   image: web-banner-romance.png
   altText: romance with passion
   page: series/romance-with-passion
