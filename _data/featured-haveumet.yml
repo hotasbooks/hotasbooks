@@ -1,6 +1,10 @@
+- image: have-you-met-kram.png
+  title: Have you met ... Kram?
+  content: JUST RELEASED Former commando, Kram, expected to rescue a woman, not to fall in love.
+  page: have-you-met-kram
 - image: have-you-met-drhunter.png
   title: Have you met ... Dr Hunter?
-  content: JUST RELEASED Will jealousies and insecurities destroy their love?
+  content: Will jealousies and insecurities destroy their love? June 19
   page: have-you-met-drhunter
 - image: have-you-met-robert.png
   title: Have you met ... Robert?
@@ -20,5 +24,5 @@
   page: have-you-met-scout
 - image: have-you-met-alex.png
   title: Have you met ... Alex?
-  content: Alex gets his happily ever after. Short, but definitely not sweet. January 19
+  content: LAST CHANCE FOR FREE Alex gets his happily ever after. Short, but definitely not sweet. January 19
   page: have-you-met-alex
