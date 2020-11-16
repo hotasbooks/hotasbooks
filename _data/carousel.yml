@@ -2,19 +2,31 @@
   image: web-banner-military-series.png
   altText: military series
   page: series/aussie-military-romance
-- title: Have you met ...
-  image: web-banner-have-you-met.png
-  altText: have you met series
-  page: series/have-you-met
-- title: Choose your own adventure
+- title: Loving the Band reverse harem
+  image: web-banner-loving-the-band.png
+  altText: loving the band series
+  page: series/loving-the-band
+- title: City Sinners
+  image: web-banner-city-sinners.png
+  altText: city sinners series
+  page: series/city-sinners
+- title: Choose your own romance - complicated marriage
+  image: web-banner-cyow.png
+  altText: choose your own romance complicated marriage series
+  page: series/choose-your-own-wive
+- title: Choose your own romance - college love
   image: web-banner-cyo.png
-  altText: choose your own series
-  page: series/choose-your-own
-- title: Passion without rules
-  image: web-banner-no-rules.png
-  altText: passion without rules series
-  page: series/passion-without-rules
-- title: Romance with passion
+  altText: choose your own romance college love series
+  page: series/choose-your-own-romance
+- title: Choose your own rockstar romance
+  image: web-banner-cyorr.png
+  altText: choose your own rockstar romance series
+  page: series/choose-your-own-rockstar
+- title: Christmas Kisses
+  image: web-banner-christmas.png
+  altText: christmas kisses
+  page: series/christmas-kisses
+  - title: Romance with passion
   image: web-banner-romance.png
   altText: romance with passion
   page: series/romance-with-passion

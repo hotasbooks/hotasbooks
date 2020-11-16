@@ -3,25 +3,27 @@ layout: book-summary
 title: Random Fantasies
 image: random-fantasies.png
 altText: random fantasies
-AMSUSA: 
-AMSAU:
-AMSUK:
-AMSCA:
+AMSUSA: https://www.amazon.com/gp/product/B07W1GMDJD/
+AMSAU: https://www.amazon.com.au/gp/product/B07W1GMDJD/
+AMSUK: https://www.amazon.co.uk/gp/product/B07W1GMDJD/
+AMSCA: https://www.amazon.ca/gp/product/B07W1GMDJD/
 ---
-## Desire that can’t be controlled<br>Love comes to those who dare
+## Darius doesn't care that the baby she is carrying isn't his
 
-Tech genius billionaire, **Darius Patera** had one secret – a half ownership in “that sort of club”.<br>
-After being burned by love, the club is his home and the staff his family. <br>
-Especially beautiful, sweet and forbidden, Tara Lawson. He shouldn’t, couldn’t … could he?
+**Darius**
+What use is all his money if it can't provide for the woman he loves and the baby he loves as if it's his own.
+Smitten with the sexy and sassy Tara, Darius needs to track down the baby daddy and make him pay. After all, what sort of man would leave a woman to raise a child alone?
+To hell with her past, Darius will shower Tara in his money and love until she forgets there was ever anyone else.
 
-When Darius’ world fell apart, Tara was there.<br>
-When Darius looked for hope and redemption, Tara was his friend<br>
-If only he didn’t look at her as if they had a future.<br>
-If only one passionate kiss didn’t mean a thing, to either of them.<br>
-If only she didn’t have to tell him about her baby.
+**Tara**
+After all these months, why did it take until now for sexy billionaire boss, Darius Patera, to notice her as a woman?
+Yes, he wants passion beyond stolen kisses and love beyond friendship.
+But if Darius ever found out her secret baby daddy, Tara knows it will take hell to freeze over before he'll forgive her.
 
-**When passion becomes love, rules are meant to be broken.**
+If any couple deserve a second chance at forever, it's billionaire boss Darius and his club hostess Tara.
 
-**Random Fantasies** is book two in the Passion without Rules series where one man from the popular Choose Your Own Romance series gets the happily ever after he deserves. Each book stands alone and you can join any series at any time.
+**Random Fantasies is a stand alone secret baby billionaire romance with no cheating and a guaranteed HEA.**
 
-Get ready to explore your Random Fantasies today!
+Even though my books are grouped into series, there is no "right" entry and each book can be read stand-alone. 
+
+You'll get more of Darius in the other City Sinners where his home becomes an sanctuary for women on the run from trouble. Or go back to when Darius and Scott came to blows over [The Bad Kitty](https://www.amazon.com/dp/B07N1XZM99/ "The Bad Kitty") 

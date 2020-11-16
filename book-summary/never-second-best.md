@@ -11,6 +11,9 @@ AMSCA: https://www.amazon.ca/gp/product/B07D7P8TJ1
 
 ## How can Seth save his foster son when the one woman who can help, refuses to take his call?
 
+*Oh this book! I cried and laughed throughout it. Heart-wrenching but very real-life story. Really am glad I spent time reading it.*
+*This book made me cry. It was an absolutely heartwarming story. The struggles, the love and emotions this family shared stole my heart. This was a beautiful love story.*
+
 Seth's ex-wife proved he had always been her second choice, leaving him and their children for an old love.
 
 In the chaos of being a **single father**, and reassuring his children that they are still a family, a visit from community services threatens to **tear his foster son away**. Only the intervention of an old girlfriend and now social worker allows Seth 90 days to prove himself as a father and keep his family together.

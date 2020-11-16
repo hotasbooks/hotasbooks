@@ -10,6 +10,9 @@ AMSCA: https://www.amazon.ca/gp/product/B078T3LM28
 ---
 ## A beautiful, heartfelt story of a widow, a widower and their courage to love again.
 
+*I appreciate that the characters were flawed but mature and that the issues they dealt with were real life issues. My heart ached for the loss and pain they had both suffered and cheered for them as they struggled with very authentic fears and managed to overcome them.*
+*If you like your romance with flawed but endearing characters, deep, complex emotions and full of heart, you’ll love this book!*
+
 **Geoffrey Swains** would give up his career, money and lifestyle for **one more day with his late wife**.
 He can replace her in his bed but never his heart. 
 Ten years a widower, he never intended to meet someone special. 
