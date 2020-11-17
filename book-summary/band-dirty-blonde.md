@@ -16,10 +16,8 @@ One anonymous woman hiding within the crowd at a music festival.
 I didn’t expect three days to change my life.
 This is when I became Xavier’s dirty blonde.
 
-Quick read prequel to rockstar reverse harem romances: [Seducing the Band in Lockdown](https://www.amazon.com/gp/product/B087YTB5J7/ "Seducing the Band in Lockdown"), [Playing with the Band in Lockdown](https://www.amazon.com/gp/product/B087QVQM7D/ "Playing with the Band in Lockdown"), [Enjoying the Band in Lockdown](https://www.amazon.com/gp/product/B089QVGGQV/ "Enjoying the Band in Lockdown") and [Reuniting the Band in Lockdown](https://www.amazon.com/gp/product/B08BK5PWL3/ "Reuniting the Band in Lockdown").
+Download your [Dirty Blonde](https://dl.bookfunnel.com/87mn2uvtd1 "Dirty Blonde"), your quick read prequel to rockstar reverse harem romances: [Seducing the Band in Lockdown](https://www.amazon.com/gp/product/B087YTB5J7/ "Seducing the Band in Lockdown"), [Playing with the Band in Lockdown](https://www.amazon.com/gp/product/B087QVQM7D/ "Playing with the Band in Lockdown"), [Enjoying the Band in Lockdown](https://www.amazon.com/gp/product/B089QVGGQV/ "Enjoying the Band in Lockdown") and [Reuniting the Band in Lockdown](https://www.amazon.com/gp/product/B08BK5PWL3/ "Reuniting the Band in Lockdown").
 
 Enjoy!
-
-## Dirty Blonde
 
  
