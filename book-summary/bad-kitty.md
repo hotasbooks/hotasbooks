@@ -1,7 +1,7 @@
 ---
 layout: book-summary
 title: The Bad Kitty
-image: bad-kitty.png
+image: the-bad-kitty.png
 altText: the bad kitty
 AMSUSA: https://www.amazon.com/dp/B07N1XZM99/
 AMSAU: https://www.amazon.com.au/dp/B07N1XZM99/

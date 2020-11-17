@@ -1,7 +1,7 @@
 ---
 layout: book-summary
 title: Enjoying the Band in Lockdown - book 3
-image: enjoy.png
+image: enjoying.png
 altText: enjoying the band in lockdown - book 3
 AMSUSA: https://www.amazon.com/gp/product/B089QVGGQV/
 AMSAU: https://www.amazon.com.au/gp/product/B089QVGGQV/

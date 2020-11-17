@@ -1,7 +1,7 @@
 ---
 layout: book-summary
 title: Playing with the Band in Lockdown - book 2
-image: play.png
+image: playing.png
 altText: playing with the band in lockdown - book 2
 AMSUSA: https://www.amazon.com/gp/product/B087QVQM7D/
 AMSAU: https://www.amazon.com.au/gp/product/B087QVQM7D/

@@ -1,7 +1,7 @@
 ---
 layout: book-summary
 title: Reuniting the Band in Lockdown - book 4
-image: reunite.png
+image: reuniting.png
 altText: reuniting the band in lockdown - book 4
 AMSUSA: https://www.amazon.com/gp/product/B08BK5PWL3/
 AMSAU: https://www.amazon.com.au/gp/product/B08BK5PWL3/
