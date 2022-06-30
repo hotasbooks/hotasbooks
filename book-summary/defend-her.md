@@ -13,7 +13,7 @@ AMSCA: https://www.amazon.ca/dp/B07TSTD7N3/
 
 _This book is for Defence Brats the world over. Thank you for your sacrifice._
 
-**Lietenant Colonel Edison (Ed) Alexander** 
+**Lieutenant Colonel Edison (Ed) Alexander** 
 
 A decorated war hero shouldn't be asked to look after his commanding officer's daughter. But when Anastacia Vaughan is abducted, beaten and dumped in an ambulance bay, Ed doesn't have a choice. He can vow to defend her, but he can't vow not to fall in love. Even when that love may cost lives of those he holds dear.
 
