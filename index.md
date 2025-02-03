@@ -4,9 +4,9 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
 special: homepage
-title: Books by Kenna
+title: Hot As Books
 featuredDataFile: featured-main
 ---
-# Books by Kenna
+# Hot As Books
 
-How do you like your romances? Heartfelt love with passion? Passion without rules? Or do you want to choose your own ending? Welcome to Books by Kenna where you can match your romance to your mood.
+Coming soon...
