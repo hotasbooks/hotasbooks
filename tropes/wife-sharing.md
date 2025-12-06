@@ -7,7 +7,6 @@ altText: "banner for wife sharing erotica by Lana Minx"
 description: "Wife Sharing erotica explores consensual non-monogamy, voyeurism, and the thrill of seeing your partner desired by others. These stories are bold, intimate, and emotionally charged."
 meta_description: "Explore Wife Sharing erotica by Lana Minx—where husbands share their wives with others and love every second. Perfect for readers who crave trust, taboo, and erotic exploration."
 
-
 <div style="text-align:center;"> <h1><strong>When sharing her is the ultimate turn-on</strong></h1> </div>
 
 ---

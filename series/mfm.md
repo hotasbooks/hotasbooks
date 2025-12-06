@@ -3,11 +3,11 @@ layout: series-default
 title: MFM Romance & Erotica
 featuredDataFile: featured-mfm
 image: series-banner-mfm.png
-tags: - MFM romance
-      - MFM erotica
-      - menage romance
-      - dominant men
-      - steamy standalone stories
+tags: MFM romance
+      MFM erotica
+      menage romance
+      dominant men
+      steamy standalone stories
 ---
 🔥 MFM Romance & Erotica by Lana Minx
 Steamy ménage stories where one woman is adored, claimed, and thoroughly satisfied by two irresistible men.
