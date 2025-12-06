@@ -1,26 +1,38 @@
 ---
 layout: about
-title: About Kenna Shaw Reed
+title: About Hot as Books authors Lana Minx and Dilana Rose
 ---
-## Romance with a touch of reality—and a twist you control.
 
-![Kenna]({{site.baseurl}}/images/kenna-profile.jpg#right-wrap){:width="300px"}
+## where passion meets the page
 
-What Americans call “down under,” I call home: sandy beaches, semi-tropical hinterland, two dogs, one cat (who pretends she doesn’t love me), and the love of my life. I started writing when multiple sclerosis nudged me toward my bucket list—and at the top was this:  
-**Write the books I want to read.**
+![Lana Minx]({{site.baseurl}}/images/lana-profile.jpg#right-wrap){:width="300px"}
 
-So I do. My stories are filled with second chance romance, forbidden love, and emotional twists that feel real. You’ll find secrets—about identity, jobs, and surprise babies. You’ll meet lovers torn between loyalty and desire. And you’ll get to choose how it all ends.
+**Lana Minx** writes unapologetically erotic romance for readers who crave heat, heart, and a little taboo. Her stories explore the edges of desire—hotwives who love to be watched, women adored by two men, and fantasies that blur the line between submission and power. Whether it’s a standalone escape or a sizzling mini-series, Lana’s heroines are always in control of their pleasure—even when they’re being thoroughly claimed.
 
-I write:
-- 💔 *Second chance romance* with emotional depth  
-- 🔥 *Friends to lovers* and *enemies to lovers* with instant attraction  
-- 💍 *Forbidden love*—bosses, best friends’ siblings, and forced proximity  
-- 🎭 *Interactive romance* where you choose the heroine’s happily ever after
+Lana is the bolder, kink-forward evolution of Dilana Rose, created to bring clarity, discoverability, and a fresh voice to her most daring stories. If you love dominant men, emotionally satisfying endings, and heroines who own their cravings, you’re in the right place.
 
-If you’ve ever read *Choices* or *Episodes*, you’ll love my **Choose Your Own Romance** series. Each book lets you decide who the heroine ends up with—her first love, her best friend, or the man she never saw coming. Change your mind? Link back and choose again.
+![Dilana Rose]({{site.baseurl}}/images/dilana-profile.jpg#right-wrap){:width="300px"}
 
-Because love isn’t always predictable. And sometimes, the man you’ve always loved… isn’t the one you’re meant to be with.
+**Dilana Rose** built a loyal following writing steamy romance with heart. Her books blend emotional depth with erotic tension—second chances, forbidden crushes, and friends who become lovers in all the best ways. While the name may be retiring, the stories live on through Lana Minx, where every kiss, climax, and confession still carries Dilana’s signature emotional resonance.
 
-Life’s too short for bad coffee or boring books. So here’s to many happy hours curled up with the best of both.  
-Or tea. Or both.  
-**Kenna xoxo**
+---
+
+## 🔥 Tropes & Kinks You'll Love
+
+| Trope / Kink           | What You’ll Find in Our Books                                                         |
+|------------------------|---------------------------------------------------------------------------------------|
+| 💍 Forbidden Love      | Bosses, age gap, student/professor, husband's best friends                            |
+| 💋 Hotwife             | Consensual sharing, voyeurism, and married women who crave more                       |
+| 👨‍👨‍👧 MFM                 | One woman adored, claimed, and pleasured by two men                                   |
+| 🔓 Freeuse             | Consensual non-consent, spontaneous encounters, and trust-based kink                  |
+| 🔥 Age Gap             | He's older and wiser. She's got what he wants and is happy to deliver it on her knees |
+| 🍼 Breeding            | One goal - putting a baby in her regardless of how many men it takes                  |
+| 🔄 Wife Sharing        | Husbands who love to watch, share, and worship their wives                            |
+
+---
+
+## 📚 Follow Lana Minx and Dilana Rose on [Amazon](https://www.amazon.com/author/lanaminx)
+
+Never miss a new release, bonus scene, or exclusive deal. Tap that follow button and let the fantasies begin.
+
+---

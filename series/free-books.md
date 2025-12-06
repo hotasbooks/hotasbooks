@@ -2,5 +2,6 @@
 layout: series-default
 title: Free Books
 featuredDataFile: featured-free
+image: series-banner-free-books.png
 ---
-Get these free series starters and bonus scenes by subscribing to my newsletter.
+Unlock your next obsession - for free

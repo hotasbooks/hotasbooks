@@ -4,12 +4,10 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
 special: homepage
-title: Books by Kenna Shaw Reed
+title: Hot As Books
 subtitle: where love conquers all and women get the heroes they deserve
 featuredDataFile: featured-main
 ---
-# Books by Kenna
+# Hot As Books
 
-For lovers of second chance romance, friends to lovers, instalove and insta attraction, Kenna writes the book boyfriends you deserve. 
-
-Don't want to choose between second chance and friends to lovers? Kenna puts you in control of love triangles with her 'choose your own romance' where readers choose the love the women deserve. Start with [The Rockstar's Wife](https://mybook.to/TheRockstarsWife/ "The Rockstar's Wife") today, free with your KindleUnlimited subscription.
+for passion on the page by featured authors Dilana Rose and Lana Minx

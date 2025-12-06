@@ -2,5 +2,6 @@
 layout: series-default
 title: Get all my series starters here
 featuredDataFile: featured-series-starters
+image: series-banner-series-starters.png
 ---
-Your next binge-worthy series starts here
+Your next steamy obsession starts here

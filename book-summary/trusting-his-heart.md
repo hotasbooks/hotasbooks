@@ -1,6 +1,6 @@
 ---
 layout: book-summary
-title: Trusting his Heart
+title: New Year New Rules
 image: trusting-his-heart.png
 altText: trusting his heart
 AMSUSA: https://www.amazon.com/gp/product/B078T3LM28
